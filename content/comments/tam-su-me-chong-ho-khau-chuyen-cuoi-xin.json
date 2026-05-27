@@ -1,0 +1,144 @@
+[
+  {
+    "id": "c1",
+    "username": "Chị Hoa làm dâu mười năm",
+    "location": "Hà Nội (khu tập thể Kim Liên)",
+    "timestamp": "1985-10-26T15:12:00+07:00",
+    "body": "Đọc tới đoạn bát cháo hành mẹ chồng nấu đặt đầu giường là tôi khóc. Y hệt chuyện nhà tôi. Mẹ chồng khó tính mà thương thầm. Mười năm rồi, giờ bà yếu, tôi mới hiểu hết cái đời tằn tiện vun vén của bà.",
+    "likes": 3456,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Bạn đọc N.T.H",
+        "location": "Hà Nội",
+        "timestamp": "1985-10-26T15:30:00+07:00",
+        "body": "Cảm ơn chị đã đọc bài của em. Đọc bình luận của chị em lại rưng rưng. Hoá ra cái khó của làm dâu phố, chị em mình ai cũng đi qua. Em mới hơn một năm, mong sẽ thấm dần như chị.",
+        "likes": 1567
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Mẹ cô dâu mới",
+    "location": "Nam Định",
+    "timestamp": "1985-10-26T15:48:00+07:00",
+    "body": "Lấy chồng phải theo chồng, con ạ. Về nhà người ta thì phải biết điều, biết nhịn. Tôi cũng dặn con gái y câu đó trước ngày cưới. Đọc bài mới biết con mình ra phố làm dâu cũng khóc thầm thế này. Thương con quá.",
+    "likes": 2890,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Cô giáo về hưu",
+        "location": "Huế",
+        "timestamp": "1985-10-26T16:05:00+07:00",
+        "body": "Bác ơi, câu lấy chồng phải theo chồng cũng nên thêm một vế: theo chồng mà có thêm người mẹ để học, để thương. Tác giả viết hay ở chỗ đó. Làm dâu không chỉ là nhịn, mà là học cách thương thêm một người.",
+        "likes": 2103
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Anh Tài làm rể",
+    "location": "Hải Phòng",
+    "timestamp": "1985-10-26T16:25:00+07:00",
+    "body": "Em chịu khó, mẹ anh tính thế nhưng thương người lắm. Tôi cũng hay nói câu này với vợ. Đọc bài mới giật mình: mình an ủi thế thôi chứ có đỡ đần vợ được mấy đâu. Cánh đàn ông phải để ý hơn các bác ạ.",
+    "likes": 2456
+  },
+  {
+    "id": "c4",
+    "username": "Thanh nữ mới về phố",
+    "location": "Thái Bình",
+    "timestamp": "1985-10-26T16:45:00+07:00",
+    "body": "Cái hộ khẩu là tất cả. Có tên trong sổ mới được mua gạo, cắt phiếu vải, con cái mới được học. Em đi lại mấy lượt xin chữ ký mà thấp thỏm y như tác giả. Ngày có tên trong sổ, em cũng mừng rưng rưng.",
+    "likes": 1789
+  },
+  {
+    "id": "c5",
+    "username": "Bà Loan mẹ chồng",
+    "location": "Hà Nội",
+    "timestamp": "1985-10-26T17:05:00+07:00",
+    "body": "Tôi là mẹ chồng đây. Đọc bài mà giật mình nhìn lại mình. Hồi con dâu mới về tôi cũng hay chê cơm nhão cơm khô. Không phải ghét, mà cả đời tính từng hạt gạo thành quen, miệng cứ buột ra. Giờ mới biết con nó tủi.",
+    "likes": 3120,
+    "replies": [
+      {
+        "id": "c5-r1",
+        "username": "Chị Hoa làm dâu mười năm",
+        "location": "Hà Nội (khu tập thể Kim Liên)",
+        "timestamp": "1985-10-26T17:25:00+07:00",
+        "body": "Bác đọc được tới đây, biết nghĩ lại cho con dâu, là bác có phúc rồi. Con dâu nào cũng chỉ mong mẹ chồng hiểu cho một chút. Bác về nấu cho cháu bát cháo hành đi, một bát thôi là tan hết tủi.",
+        "likes": 2234
+      }
+    ]
+  },
+  {
+    "id": "c6",
+    "username": "Mẹ cu Tý",
+    "location": "Hà Nội (khu tập thể Trung Tự)",
+    "timestamp": "1985-10-26T17:45:00+07:00",
+    "body": "Ngăn ri-đô làm hai, đêm trở mình cũng phải khẽ, nói câu gì cũng ghé tai. Riêng tư là thứ xa xỉ. Đúng cảnh nhà tôi luôn. Ba thế hệ một gian, mà rồi cũng thương nhau qua từng bữa cơm chật.",
+    "likes": 1456
+  },
+  {
+    "id": "c7",
+    "username": "Chú Ba Sài Gòn",
+    "location": "TP.HCM",
+    "timestamp": "1985-10-26T18:05:00+07:00",
+    "body": "Bà dạy cách độn cơm với ngô khoai sao cho con vẫn no mà gạo vẫn đủ cuối tháng. Đó mới là của hồi môn thật sự. Cái kinh nghiệm sống ấy quý hơn mọi lời vàng ngọc.",
+    "likes": 1234
+  },
+  {
+    "id": "c8",
+    "username": "Thuý sinh viên",
+    "location": "Hà Nội",
+    "timestamp": "1985-10-26T18:30:00+07:00",
+    "body": "Đám cưới gọn nhẹ: mấy gói kẹo, ít trà, thuốc lá, hát hò bên chiếc đài bán dẫn. Vui mà ấm. Em mong đám cưới em cũng giản dị thế. Không cần mâm cao cỗ đầy, chỉ cần người thương ngồi quây quần.",
+    "likes": 1567
+  },
+  {
+    "id": "c9",
+    "username": "Bác Đoàn về hưu",
+    "location": "Vinh",
+    "timestamp": "1985-10-26T18:55:00+07:00",
+    "body": "Sau cái khó tính ấy là cả một đời tằn tiện vun vén. Vợ tôi mất rồi, đọc câu này tôi nhớ bà ấy. Một mình gánh cả nhà qua bao năm thiếu thốn. Các cô con dâu đừng vội trách mẹ chồng, hãy thử gánh một lần xem.",
+    "likes": 2678
+  },
+  {
+    "id": "c10",
+    "username": "Chị Mai ba con",
+    "location": "Hải Phòng",
+    "timestamp": "1985-10-26T19:20:00+07:00",
+    "body": "Kiên nhẫn một chút, thương nhau một chút, rồi mái nhà chung dù chật cũng đủ chỗ cho tất cả. Lời gửi gắm của tác giả nhẹ mà thấm. Em in ra dán đầu giường, hôm nào tủi thì đọc lại.",
+    "likes": 1923
+  },
+  {
+    "id": "c11",
+    "username": "Hằng công nhân",
+    "location": "Nam Định",
+    "timestamp": "1985-10-26T19:50:00+07:00",
+    "body": "Có đêm tôi khóc thầm, nhớ mẹ đẻ, nhớ cái sân quê rộng rãi. Đọc câu này tôi nghẹn. Làm dâu xa nhà ai chẳng có những đêm như thế. Nhưng rồi cũng qua, rồi cũng thương được nhà chồng.",
+    "likes": 1345
+  },
+  {
+    "id": "c12",
+    "username": "Ông giáo già",
+    "location": "Huế",
+    "timestamp": "1985-10-26T20:20:00+07:00",
+    "body": "Tình người trong gian buồng nhỏ ấy, tôi mong sẽ ở lại. Câu kết của tác giả hay nhất. Cái khó của thời này rồi sẽ qua, nhưng cái tình thì mong nó ở mãi. Một bài tâm sự tử tế.",
+    "likes": 1789
+  },
+  {
+    "id": "c13",
+    "username": "Thanh niên sắp cưới",
+    "location": "Hà Nội",
+    "timestamp": "1985-10-26T20:50:00+07:00",
+    "body": "Em sắp cưới, đọc bài này để hiểu vợ tương lai sẽ vất vả thế nào khi về làm dâu. Em sẽ không chỉ an ủi suông mà sẽ đỡ đần vợ thật. Cảm ơn tác giả đã viết cho cánh đàn ông chúng em một bài học.",
+    "likes": 2103
+  },
+  {
+    "id": "c14",
+    "username": "Bà Sen khu tập thể",
+    "location": "Thái Bình",
+    "timestamp": "1985-10-26T21:20:00+07:00",
+    "body": "Tôi gọi bà bằng mẹ mà thấy ấm trong lòng, chứ không còn ngượng nghịu. Cái khoảnh khắc gọi mẹ thật lòng ấy, làm dâu nào cũng chờ. Mong các con dâu sớm có ngày đó, và mong các mẹ chồng mở lòng đón nó.",
+    "likes": 1678
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "c1",
+    "username": "Kỹ sư Vũ Đình Khang",
+    "location": "Hà Nội",
+    "timestamp": "1985-09-10T09:12:00+07:00",
+    "body": "Có cái máy này, anh em đỡ phải thức trắng đêm cộng sổ. Quan trọng hơn, lớp trẻ được học cách làm việc với máy tính, đó mới là cái vốn để dành. Tôi từng thấy máy bên nước bạn, giờ về viện mình có một cái, mừng không ngủ được.",
+    "likes": 567,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Sinh viên bách khoa",
+        "location": "Hà Nội",
+        "timestamp": "1985-09-10T09:30:00+07:00",
+        "body": "Anh Khang ơi cho tụi em sang tham quan với! Tụi em học kỹ thuật mà chưa được sờ vào cái máy tính thật bao giờ. Được học cách ra lệnh cho máy thì thích phải biết. Đúng là cái vốn để dành cho tương lai.",
+        "likes": 389
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Cán bộ kỹ thuật phòng máy",
+    "location": "Hà Nội",
+    "timestamp": "1985-09-10T09:50:00+07:00",
+    "body": "Phòng máy phải mát phải sạch, bụi một chút là máy dỗi ngay. Riêng việc làm quen cách ra lệnh cho máy đã ngốn của tổ tôi mấy tuần. Nhưng học được rồi thì sướng, việc trước mất cả tuần giờ máy làm trong ít giờ.",
+    "likes": 478
+  },
+  {
+    "id": "c3",
+    "username": "Bác Đoàn về hưu",
+    "location": "Hải Phòng",
+    "timestamp": "1985-09-10T10:15:00+07:00",
+    "body": "Đứng đầu hàng tò mò! Cái máy choán gần hết căn phòng, không có màn hình bàn phím, dữ liệu đưa vào bằng phiếu đục lỗ. Đời tôi cộng sổ bằng bàn tính cả đời, giờ nghe có cái máy biết tính toán mà thấy như chuyện cổ tích.",
+    "likes": 612
+  },
+  {
+    "id": "c4",
+    "username": "Cô giáo dạy toán",
+    "location": "Nam Định",
+    "timestamp": "1985-09-10T10:40:00+07:00",
+    "body": "Việc trước đây mất hàng tuần, máy làm trong ít giờ. Đọc mà choáng. Tôi dạy học trò tính tay bằng bàn tính, giờ phải kể cho các em nghe về cái máy này. Tương lai của lớp trẻ là ở đây chứ đâu.",
+    "likes": 534
+  },
+  {
+    "id": "c5",
+    "username": "Chú Ba Sài Gòn",
+    "location": "TP.HCM",
+    "timestamp": "1985-09-10T11:05:00+07:00",
+    "body": "Máy chạy cần cả ê-kíp: người chuẩn bị phiếu, người vận hành, người canh nhiệt độ phòng. Cả gian phòng cho một bộ óc biết tính toán. Nghe vừa lạ vừa khâm phục. Hàng của bạn đúng là đồ sộ.",
+    "likes": 489
+  },
+  {
+    "id": "c6",
+    "username": "Mẹ cu Tý",
+    "location": "Hà Nội (khu tập thể Trung Tự)",
+    "timestamp": "1985-09-10T11:30:00+07:00",
+    "body": "Nhiều người tò mò đứng ngoài cửa kính nhìn vào dãy đèn nhấp nháy như nhìn vào tương lai. Tôi cũng muốn đi xem cho biết. Con tôi mê máy móc, chắc dắt nó tới đứng ngoài ngó một cái cho nó mở mang.",
+    "likes": 423
+  },
+  {
+    "id": "c7",
+    "username": "Ông Kính hưu trí",
+    "location": "Hà Nội",
+    "timestamp": "1985-09-10T12:00:00+07:00",
+    "body": "Đời tôi cộng trừ bằng bàn tính, sổ sách chất cao bằng người. Giờ có cái máy làm thay, lớp trẻ sướng thật. Cái máy này tuy lạ mà tôi mừng cho con cháu, chúng nó được làm việc với thứ của tương lai.",
+    "likes": 678
+  },
+  {
+    "id": "c8",
+    "username": "Anh Tài thợ máy",
+    "location": "Vinh",
+    "timestamp": "1985-09-10T12:30:00+07:00",
+    "body": "Máy dỗi khi có bụi, cần phòng mát sạch. Nghe mà thấy nó kỹ tính như đồ quý. Tôi sửa máy móc cả đời, chưa từng gặp cỗ máy nào cầu kỳ thế. Mong tổ kỹ thuật khai thác hết công suất, đừng để máy nằm không.",
+    "likes": 356
+  },
+  {
+    "id": "c9",
+    "username": "Sinh viên mơ du học",
+    "location": "Hà Nội",
+    "timestamp": "1985-09-10T13:00:00+07:00",
+    "body": "Lớp trẻ được học cách làm việc với máy tính, đó mới là cái vốn để dành. Anh Khang nói câu này hay quá. Em đang học tiếng Nga, mơ sang nước bạn học về máy tính rồi về phục vụ nước mình. Tương lai là ở đây.",
+    "likes": 512
+  },
+  {
+    "id": "c10",
+    "username": "Bác Năm Cần Thơ",
+    "location": "Cần Thơ",
+    "timestamp": "1985-09-10T13:35:00+07:00",
+    "body": "Trong này chưa thấy cái máy tính điện tử nào cả, nghe ngoài Bắc có là mừng cho cả nước. Từng bước một, mai mốt viện nào cũng có. Lớp trẻ mình giỏi, có máy là học nhanh thôi. Đọc mà thấy hy vọng.",
+    "likes": 445
+  }
+]

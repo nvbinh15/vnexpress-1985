@@ -1,0 +1,68 @@
+[
+  {
+    "id": "c1",
+    "username": "Bà Sen giữ phích mười năm",
+    "location": "Hà Nội (khu tập thể Kim Liên)",
+    "timestamp": "1985-06-30T10:42:00+07:00",
+    "body": "Cái phích nhà tôi dùng cả chục năm chưa vỡ vì tôi giữ kỹ lắm. Mua được cái phích tốt là mừng cả tháng. Con cháu đụng vào là tôi nhắc cẩn thận cái phích, ruột thuỷ tinh tráng bạc dễ vỡ lắm các bác ạ.",
+    "likes": 1234,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Cô con dâu",
+        "location": "Hà Nội",
+        "timestamp": "1985-06-30T11:00:00+07:00",
+        "body": "Mẹ chồng em cũng quý cái phích y như bác. Hôm em lỡ tay làm sứt cái nắp, bà tiếc cả tuần. Giờ em rót nước cũng phải hai tay, nâng như nâng trứng.",
+        "likes": 678
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Anh Tài thợ sửa quạt",
+    "location": "Hải Phòng",
+    "timestamp": "1985-06-30T11:20:00+07:00",
+    "body": "Đứng đầu hàng đội quạt con cóc! Chạy rè rè mà quay đều, nóng máy thì tắt cho nghỉ rồi bật lại. Chiều nó như chiều người. Tôi sửa quạt con cóc cả phố, con nào cũng cũ mà bà con thương không nỡ bỏ.",
+    "likes": 945
+  },
+  {
+    "id": "c3",
+    "username": "Mẹ cu Tý",
+    "location": "Hà Nội (khu tập thể Trung Tự)",
+    "timestamp": "1985-06-30T11:45:00+07:00",
+    "body": "Đêm hè oi ả, cái quạt con cóc là cứu cánh. Cả nhà nằm xúm quanh nó. Quạt yếu, chỉ đủ mát một góc, ai cũng tranh nằm gần. Nhỏ mà quý, thiếu nó thì mất ngủ cả nhà.",
+    "likes": 834
+  },
+  {
+    "id": "c4",
+    "username": "Bác Đoàn về hưu",
+    "location": "Nam Định",
+    "timestamp": "1985-06-30T12:10:00+07:00",
+    "body": "Bàn là gang nặng trịch, là xong bộ quần áo mỏi cả tay, nhưng phẳng phiu thì khó gì bằng. Tôi vẫn dùng cái bàn là gang từ thời cưới, ủ than nóng rực. Đồ giờ chẳng bền bằng đồ ngày xưa đâu.",
+    "likes": 612
+  },
+  {
+    "id": "c5",
+    "username": "Chị Hoa công nhân",
+    "location": "Vinh",
+    "timestamp": "1985-06-30T12:40:00+07:00",
+    "body": "Phích sáng đun một ấm, rót đầy là cả ngày có nước nóng pha trà pha sữa cho con. Đúng quá. Nhà có trẻ nhỏ thì cái phích là vật bất ly thân. Mua được cái giữ nhiệt tốt là yên tâm cả ngày.",
+    "likes": 567
+  },
+  {
+    "id": "c6",
+    "username": "Ông Kính hưu trí",
+    "location": "Hà Nội",
+    "timestamp": "1985-06-30T13:15:00+07:00",
+    "body": "Mấy món nhỏ ấy gắn bó với từng nếp sinh hoạt, giữ gìn cẩn thận thì theo gia đình rất nhiều năm. Đúng thế. Cái quạt cưới vợ tôi tới giờ vẫn chạy, mỗi lần bật lên là nhớ thuở son trẻ.",
+    "likes": 789
+  },
+  {
+    "id": "c7",
+    "username": "Thanh niên mới ra ở riêng",
+    "location": "Hà Nội",
+    "timestamp": "1985-06-30T13:50:00+07:00",
+    "body": "Em mới ra ở riêng, sắm được cái phích với cái quạt con cóc là thấy nhà cửa ra dáng hẳn. Ba món này mà đủ trong nhà là coi như có cơ ngơi rồi. Để dành lương mãi mới mua được, quý lắm.",
+    "likes": 489
+  }
+]

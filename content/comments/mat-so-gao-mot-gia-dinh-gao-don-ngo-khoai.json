@@ -1,0 +1,92 @@
+[
+  {
+    "id": "c1",
+    "username": "Bà Loan hàng xóm tốt bụng",
+    "location": "Hà Nội (khu tập thể Nguyễn Công Trứ)",
+    "timestamp": "1985-05-18T09:32:00+07:00",
+    "body": "Tôi là bà hàng xóm cho chị Mai mượn cân gạo trong bài đây. Hàng xóm với nhau, đỡ nhau lúc giáp hạt thôi mà. Mai mốt cấp sổ xong trả lại cũng được, vội gì.",
+    "likes": 1456,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Chị Mai mất sổ",
+        "location": "Hà Nội",
+        "timestamp": "1985-05-18T09:48:00+07:00",
+        "body": "Bác ơi cháu cảm ơn bác lắm. Hôm đó không có cân gạo của bác chắc nhà cháu nhịn. Tình làng nghĩa xóm là cái phao cứu sinh của thời này.",
+        "likes": 892
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Mẹ cu Tèo",
+    "location": "Hà Nội",
+    "timestamp": "1985-05-18T10:05:00+07:00",
+    "body": "Mất sổ gạo còn lo hơn mất ví. Ví mất thì xót, sổ gạo mất là cả nhà nhìn nhau. Câu này đúng thấu xương. Tôi đọc mà rùng mình, đêm nay phải kiểm tra lại sổ nhà mình mới ngủ được.",
+    "likes": 2103
+  },
+  {
+    "id": "c3",
+    "username": "Anh Tài cẩn thận",
+    "location": "Hải Phòng",
+    "timestamp": "1985-05-18T10:25:00+07:00",
+    "body": "Mẹo nhà tôi: buộc sổ gạo vào sợi dây treo cố định một chỗ, y như chị Mai nói cuối bài. Một lần tá hoả là chừa tới già. Sổ gạo với sổ hộ khẩu là hai báu vật, mất là khốn.",
+    "likes": 967
+  },
+  {
+    "id": "c4",
+    "username": "Cô giáo cấp một",
+    "location": "Nam Định",
+    "timestamp": "1985-05-18T10:50:00+07:00",
+    "body": "Hai đứa nhỏ kêu chán cơm độn ngô, mẹ bảo nhà ai cuối tháng chẳng thế. Đọc mà cười mà thương. Cơm độn khoai sắn ăn riết thành quen, sau này lớn lên lại nhớ.",
+    "likes": 1234
+  },
+  {
+    "id": "c5",
+    "username": "Bác Năm miền Tây",
+    "location": "Cần Thơ",
+    "timestamp": "1985-05-18T11:15:00+07:00",
+    "body": "Trong này gạo đỡ hơn ngoài Bắc nhưng cũng phải độn. Khoai mì luộc chấm muối mè ăn cũng ngon đáo để. Cái khó nó ló cái khéo, bà con mình nấu món độn cũng thành nghệ thuật.",
+    "likes": 745
+  },
+  {
+    "id": "c6",
+    "username": "Ông Tư hưu trí",
+    "location": "Hà Nội",
+    "timestamp": "1985-05-18T11:40:00+07:00",
+    "body": "Cán bộ cửa hàng lương thực giải quyết bốn ngày là nhanh đấy. Hồi tôi mất sổ phải chờ cả tuần. Thủ tục giờ rõ ràng hơn, dán hẳn bảng tin tổ dân phố, đỡ phải hỏi loanh quanh.",
+    "likes": 423
+  },
+  {
+    "id": "c7",
+    "username": "Chị Hồng ba con",
+    "location": "Thái Bình",
+    "timestamp": "1985-05-18T12:10:00+07:00",
+    "body": "Có cuốn sổ trong tay mới thấy yên tâm lạ. Câu cuối của chị Mai đúng tâm trạng tôi luôn. Cầm cuốn sổ gạo như cầm cả cái dạ dày của gia đình.",
+    "likes": 1567
+  },
+  {
+    "id": "c8",
+    "username": "Thành sinh viên xa nhà",
+    "location": "Hà Nội",
+    "timestamp": "1985-05-18T12:45:00+07:00",
+    "body": "Đọc tới đoạn mẹ ngồi vá áo bên con học bài là tôi nhớ mẹ. Cuối tháng cơm độn mà cả nhà ngồi với nhau vẫn ấm. Xa nhà mới thấy bữa cơm độn ngày xưa quý thế nào.",
+    "likes": 1089
+  },
+  {
+    "id": "c9",
+    "username": "Bà Sen khu tập thể",
+    "location": "Vinh",
+    "timestamp": "1985-05-18T13:20:00+07:00",
+    "body": "Cho mượn cân gạo lúc ngặt nghèo là cái nghĩa lớn nhất. Khu tôi cũng vậy, nhà nào hết gạo giữa tháng là cả tầng san sẻ. Đói thì cùng đói, no thì cùng no.",
+    "likes": 834
+  },
+  {
+    "id": "c10",
+    "username": "Anh Quý công nhân",
+    "location": "Hải Phòng",
+    "timestamp": "1985-05-18T14:00:00+07:00",
+    "body": "Hai đứa nhỏ reo lên khi bữa cơm có thêm bát canh. Trẻ con dễ vui thật. Niềm vui thời này nhỏ xíu thôi, một bát canh, một sổ gạo mới, mà sao ấm lòng.",
+    "likes": 678
+  }
+]

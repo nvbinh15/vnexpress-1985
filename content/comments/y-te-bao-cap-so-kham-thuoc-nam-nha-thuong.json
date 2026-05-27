@@ -1,0 +1,70 @@
+[
+  {
+    "id": "c1",
+    "username": "Anh Hà bố cu Bin",
+    "location": "Hà Nội",
+    "timestamp": "1985-05-09T09:12:00+07:00",
+    "body": "Con tôi ho, bác sĩ bày hấp lá hẹ với đường phèn, vài hôm là đỡ. Đỡ phải dùng thuốc mà cũng hiệu nghiệm. Tôi phục mấy bài thuốc nam của trạm xá, vừa rẻ vừa lành, hợp với trẻ con.",
+    "likes": 876,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Mẹ ba con",
+        "location": "Nam Định",
+        "timestamp": "1985-05-09T09:30:00+07:00",
+        "body": "Anh bày em với, con em cũng hay ho. Lá hẹ hấp đường phèn em làm thử mà chưa đúng cách. Mấy bài thuốc dân gian này quý thật, đỡ phải lo chạy thuốc tây hiếm hoi.",
+        "likes": 423
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Bà Sen giữ sổ khám",
+    "location": "Hà Nội (khu tập thể Kim Liên)",
+    "timestamp": "1985-05-09T09:50:00+07:00",
+    "body": "Cuốn sổ khám là vật bất ly thân, ghi từng lần thăm khám từng đơn thuốc. Tôi giữ kỹ như giữ sổ gạo. Mất sổ khám là phải làm lại từ đầu, bác sĩ không biết bệnh sử của mình. Bà con nhớ giữ cẩn thận.",
+    "likes": 678
+  },
+  {
+    "id": "c3",
+    "username": "Cô y sĩ trạm xá",
+    "location": "Thái Bình",
+    "timestamp": "1985-05-09T10:15:00+07:00",
+    "body": "Bệnh nhẹ thì điều chỉnh sinh hoạt là chính, thuốc để dành cho lúc thật cần. Tôi làm ở trạm, đúng là phải dặn bà con vậy. Thuốc tây hiếm, mình tận dụng vườn thuốc nam sau phòng khám. Tía tô, kinh giới, gừng sả đủ chữa bệnh vặt.",
+    "likes": 945,
+    "replies": [
+      {
+        "id": "c3-r1",
+        "username": "Bác Đoàn về hưu",
+        "location": "Hải Phòng",
+        "timestamp": "1985-05-09T10:35:00+07:00",
+        "body": "Cảm ơn cô y sĩ. Các cô bác ở trạm tận tình thật, hỏi han kỹ càng. Hồi tôi cảm, cô bày xông lá sả với tía tô, một nồi là khoẻ re. Thuốc nam mà công hiệu chẳng kém.",
+        "likes": 534
+      }
+    ]
+  },
+  {
+    "id": "c4",
+    "username": "Mẹ cu Tý",
+    "location": "Hà Nội (khu tập thể Trung Tự)",
+    "timestamp": "1985-05-09T11:00:00+07:00",
+    "body": "Đứng đầu hàng ở trạm xá từ sáng sớm! Hàng người chờ khám ngồi kín dãy ghế băng. Bác sĩ khám cẩn thận, không vội. Đông mà ai cũng kiên nhẫn chờ. Cái nếp xếp hàng theo mình tới cả nhà thương.",
+    "likes": 612
+  },
+  {
+    "id": "c5",
+    "username": "Ông Kính hưu trí",
+    "location": "Hà Nội",
+    "timestamp": "1985-05-09T11:30:00+07:00",
+    "body": "Đời tôi ốm đau toàn nhờ thuốc nam với vài bài dân gian. Vườn thuốc nam sau trạm là sáng kiến hay, vừa sẵn vừa lành. Bác sĩ tận tình hỏi han là quý nhất, có khi lời dặn dò còn hiệu nghiệm hơn viên thuốc.",
+    "likes": 834
+  },
+  {
+    "id": "c6",
+    "username": "Chị Hoa công nhân",
+    "location": "Vinh",
+    "timestamp": "1985-05-09T12:00:00+07:00",
+    "body": "Nhà tôi trồng đinh lăng, lá lốt, sả ngay trước cửa, ốm vặt là tự lo được. Học theo vườn thuốc nam của trạm cả đấy. Cây thuốc trong vườn vừa làm rau vừa làm thuốc, tiện đủ đường.",
+    "likes": 489
+  }
+]

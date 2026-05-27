@@ -1,0 +1,102 @@
+[
+  {
+    "id": "c1",
+    "username": "Bác Đoàn ôm đài",
+    "location": "Hà Nội (khu tập thể Kim Liên)",
+    "timestamp": "1985-05-25T17:42:00+07:00",
+    "body": "Tôi mê bóng đá từ trẻ. Không có vé thì ôm cái đài bán dẫn, nhắm mắt mà tưởng tượng cũng sướng. Cầu thủ mình đá hay lắm. Cả dãy nhà tôi tối nay quây quanh cái đài, mỗi bàn thắng là vỡ oà cả tầng.",
+    "likes": 2103,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Hàng xóm có đài tốt",
+        "location": "Hà Nội",
+        "timestamp": "1985-05-25T18:00:00+07:00",
+        "body": "Bác Đoàn sang nhà em mà nghe, đài em bắt sóng nét hơn. Nhà em tối nay thành trung tâm của cả tầng rồi, pha sẵn ấm trà, ai sang cũng có chỗ. Bóng đá là phải nghe chung mới đã.",
+        "likes": 1234
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Cổ động viên trẻ",
+    "location": "Hà Nội",
+    "timestamp": "1985-05-25T18:20:00+07:00",
+    "body": "Cả tháng mới có một trận hay thế này, đắt mấy cũng vào. Vé chính thức cháy sạch, tôi phải mua lại giá cao gấp đôi mà vẫn cười. Đứng trên khán đài Hàng Đẫy hò hét, sướng không gì bằng.",
+    "likes": 1567
+  },
+  {
+    "id": "c3",
+    "username": "Cháu Minh trèo cây",
+    "location": "Hà Nội",
+    "timestamp": "1985-05-25T18:40:00+07:00",
+    "body": "Cháu trèo lên cây ngoài sân nhìn vào, thấy được nửa sân thôi nhưng vui lắm. Đội cháu thích ghi bàn là cháu hét to nhất cây. Lớn lên cháu nhất định mua vé vào sân tận mắt xem.",
+    "likes": 1890,
+    "replies": [
+      {
+        "id": "c3-r1",
+        "username": "Bác bảo vệ sân",
+        "location": "Hà Nội",
+        "timestamp": "1985-05-25T19:00:00+07:00",
+        "body": "Cháu trèo cây cẩn thận kẻo ngã nhé. Bác thấy mấy đứa trèo tường trèo cây mà thương, mê bóng tới mức ấy. Hôm nào bác xin cho mấy đứa vào đứng cuối khán đài xem ké.",
+        "likes": 945
+      }
+    ]
+  },
+  {
+    "id": "c4",
+    "username": "Mẹ cu Tý bóng đá goá chồng",
+    "location": "Hà Nội (khu tập thể Trung Tự)",
+    "timestamp": "1985-05-25T19:20:00+07:00",
+    "body": "Chồng tôi ôm cái đài từ chiều, gọi ăn cơm cũng không buồn nhúc nhích. Mỗi bàn thắng lại hét làm con giật mình khóc. Nhưng thôi, đàn ông mà, để cho ổng vui. Bóng đá là cái thú duy nhất chẳng cần tem phiếu.",
+    "likes": 1456
+  },
+  {
+    "id": "c5",
+    "username": "Chú Ba Sài Gòn",
+    "location": "TP.HCM",
+    "timestamp": "1985-05-25T19:45:00+07:00",
+    "body": "Trong này cũng mê bóng không kém ngoài Bắc. Nhà nào có đài là cả xóm kéo sang. Niềm đam mê trái bóng tròn chẳng cần định mức, chẳng cần tem phiếu. Câu kết bài hay quá, đúng tim đen.",
+    "likes": 1789
+  },
+  {
+    "id": "c6",
+    "username": "Ông Kính hưu trí",
+    "location": "Hà Nội",
+    "timestamp": "1985-05-25T20:10:00+07:00",
+    "body": "Đứng đầu hàng cổ vũ! Hồi trẻ tôi đứng kín khán đài Hàng Đẫy, giờ già rồi ngồi nhà ôm đài. Niềm đam mê thì không già đi tí nào. Trận này hay, cầu thủ đá lên chân thật.",
+    "likes": 1234
+  },
+  {
+    "id": "c7",
+    "username": "Anh Tài thợ điện",
+    "location": "Hải Phòng",
+    "timestamp": "1985-05-25T20:35:00+07:00",
+    "body": "Cái đài bán dẫn nhà tôi sắp hỏng, đúng dịp trận đinh thế này thì sốt ruột. May ông hàng xóm gọi sang nghe chung. Bóng đá làm cái xóm xích lại gần nhau, ghét nhau mấy cũng ngồi chung được.",
+    "likes": 876
+  },
+  {
+    "id": "c8",
+    "username": "Thuý cổ động viên nữ",
+    "location": "Nam Định",
+    "timestamp": "1985-05-25T21:00:00+07:00",
+    "body": "Ai bảo con gái không mê bóng. Tôi cũng ôm đài nghe tường thuật, hồi hộp đến nín thở. Phụ nữ mình cũng có quyền hâm mộ chứ. Tối nay cả khu tôi rộn ràng tiếng hò reo.",
+    "likes": 1102
+  },
+  {
+    "id": "c9",
+    "username": "Bác Năm Cần Thơ",
+    "location": "Cần Thơ",
+    "timestamp": "1985-05-25T21:30:00+07:00",
+    "body": "Dòng người túa ra khỏi sân, đạp xe về từng tốp vừa đi vừa tranh luận. Cảnh ấy đẹp thật. Cả thành phố cùng nói một chuyện sau trận cầu. Bóng đá gắn kết người ta hơn cả họp hành.",
+    "likes": 745
+  },
+  {
+    "id": "c10",
+    "username": "Bố cháu Minh",
+    "location": "Hà Nội",
+    "timestamp": "1985-05-25T22:00:00+07:00",
+    "body": "Con tôi trèo cây xem bóng mà tôi cũng từng thế hồi nhỏ. Máu mê bóng đá nó di truyền các bác ạ. Mai tôi để dành tiền mua đôi vé, hai bố con vào sân xem một trận cho thoả.",
+    "likes": 1345
+  }
+]

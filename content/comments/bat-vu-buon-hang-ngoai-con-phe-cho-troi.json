@@ -1,0 +1,126 @@
+[
+  {
+    "id": "c1",
+    "username": "Bác bán nước chè đầu ngõ",
+    "location": "Hà Nội",
+    "timestamp": "1985-09-21T14:12:00+07:00",
+    "body": "Tôi là bác bán nước ngồi đầu ngõ trong bài đây. Dẹp chỗ này thì mai lại mọc chỗ khác, các chú ạ. Chừng nào người ta còn thiếu cái này cái kia thì chợ trời còn. Tôi ngồi đây cả ngày, thấy đủ chuyện thiên hạ.",
+    "likes": 2456,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Phóng viên trẻ",
+        "location": "Hà Nội",
+        "timestamp": "1985-09-21T14:30:00+07:00",
+        "body": "Bác nói câu ấy lúc tụi cháu rời ngõ mà ám ảnh mãi. Mộc mạc mà chạm tới gốc rễ hơn mọi biên bản. Cảm ơn bác đã cho tụi cháu ngồi nhờ nghe chuyện cả buổi.",
+        "likes": 1234
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Chú Ba hoài nghi",
+    "location": "TP.HCM",
+    "timestamp": "1985-09-21T14:50:00+07:00",
+    "body": "Mấy hôm sau đổi tiền ai cũng sợ tiền để lâu, đổ ra mua sắm đông nghịt. Chợ trời nhộn nhịp khác thường là phải. Cấm thì cấm chứ người ta vẫn cần mua vải may áo cho con. Cái gốc là thiếu hàng, chứ con phe nào tự dưng mọc ra.",
+    "likes": 1789
+  },
+  {
+    "id": "c3",
+    "username": "Chị Mai đi chợ",
+    "location": "Hà Nội",
+    "timestamp": "1985-09-21T15:10:00+07:00",
+    "body": "Tôi ra xem có tấm vải may áo cho con không. Hàng ở đây phong phú thật, nhưng giá tuỳ người bán, mặc cả mỏi miệng. Biết là không nên mua hàng trôi nổi, mà cửa hàng mậu dịch thì lúc có lúc không, biết làm sao.",
+    "likes": 1456
+  },
+  {
+    "id": "c4",
+    "username": "Ông Kính hưu trí",
+    "location": "Hà Nội",
+    "timestamp": "1985-09-21T15:30:00+07:00",
+    "body": "Một bánh xà phòng thơm có thể là món quà sang trọng, một chiếc đồng hồ đeo tay là cả niềm mơ ước của chàng trai. Đọc mà nhớ thời tôi cưới, dành dụm mãi mới mua được cái đồng hồ. Sức hút của hàng ngoại là có thật.",
+    "likes": 1234
+  },
+  {
+    "id": "c5",
+    "username": "Cán bộ quản lý thị trường",
+    "location": "Hà Nội",
+    "timestamp": "1985-09-21T15:50:00+07:00",
+    "body": "Điểm này chúng tôi để ý từ trước, nhiều ngày có dấu hiệu tập kết phân phối hàng số lượng lớn không giấy tờ. Kiểm tra là để giữ ổn định thị trường, nhất là giai đoạn nhạy cảm sau đổi tiền. Mong bà con mua bán ở điểm hợp pháp.",
+    "likes": 945,
+    "replies": [
+      {
+        "id": "c5-r1",
+        "username": "Anh Tài công nhân",
+        "location": "Hải Phòng",
+        "timestamp": "1985-09-21T16:10:00+07:00",
+        "body": "Các anh làm là đúng nhiệm vụ. Nhưng nói thật, bà con cũng khó, cửa hàng mậu dịch hết hàng suốt thì người ta đành ra chợ trời. Mong sao hàng hoá dồi dào hơn để chẳng ai phải mua đồ trôi nổi nữa.",
+        "likes": 1102
+      }
+    ]
+  },
+  {
+    "id": "c6",
+    "username": "Mẹ cu Tý",
+    "location": "Hà Nội (khu tập thể Trung Tự)",
+    "timestamp": "1985-09-21T16:30:00+07:00",
+    "body": "Đứng đầu hàng đọc phóng sự! Phóng viên lần theo đường đi của món hàng qua dăm bảy lần mua đi bán lại, mỗi lần đội thêm một ít giá. Viết kỹ thật, đọc mới hiểu vì sao cái đồng hồ ra tới tay mình đắt thế.",
+    "likes": 1567
+  },
+  {
+    "id": "c7",
+    "username": "Bà Loan khu tập thể",
+    "location": "Nam Định",
+    "timestamp": "1985-09-21T16:50:00+07:00",
+    "body": "Con phe là người buôn nhỏ làm trung gian giữa người có và người cần. Họ thuộc lòng giá từng món, biết ai cần gì. Nói cho cùng họ cũng kiếm miếng cơm. Cái khó nó đẻ ra đủ thứ nghề lạ.",
+    "likes": 1289
+  },
+  {
+    "id": "c8",
+    "username": "Thuý cán bộ trẻ",
+    "location": "Hà Nội",
+    "timestamp": "1985-09-21T17:10:00+07:00",
+    "body": "Có sạp bỏ cả hàng mà đi, người mua tản hết trong chớp mắt. Đọc đoạn dựng lại buổi sáng hôm ấy mà như xem phim. Chợ trời nhanh nhạy lắm, thoáng thấy bóng cán bộ là biến mất tăm.",
+    "likes": 834
+  },
+  {
+    "id": "c9",
+    "username": "Chú Năm Cần Thơ",
+    "location": "Cần Thơ",
+    "timestamp": "1985-09-21T17:35:00+07:00",
+    "body": "Trong này cũng có chợ trời y vậy, đủ thứ hàng từ đồng hồ tới xà phòng thơm. Người đi lao động nước ngoài về bán lại, đồ cũ trong nhà đem ra. Cả nước chung một cảnh, đọc thấy gần gũi mà cũng chạnh lòng.",
+    "likes": 1023
+  },
+  {
+    "id": "c10",
+    "username": "Anh Hùng thợ điện",
+    "location": "Vinh",
+    "timestamp": "1985-09-21T18:00:00+07:00",
+    "body": "Tôi từng mua cái đài bán dẫn ngoài chợ trời, dùng được hai năm thì hỏng, sửa không nổi vì không rõ hàng gì. Tiền mất tật mang. Biết là hên xui mà cửa hàng không có thì đành liều. Bài viết nói trúng cái khó của dân.",
+    "likes": 1156
+  },
+  {
+    "id": "c11",
+    "username": "Ông giáo già",
+    "location": "Huế",
+    "timestamp": "1985-09-21T18:30:00+07:00",
+    "body": "Chừng nào người ta còn thiếu cái này cái kia thì chợ trời còn. Câu của bác bán nước đáng để suy ngẫm. Không phải chuyện cấm hay không cấm, mà là chuyện làm sao cho hàng hoá dồi dào. Một phóng sự tử tế, không né tránh.",
+    "likes": 1678
+  },
+  {
+    "id": "c12",
+    "username": "Bà Sen nội trợ",
+    "location": "Thái Bình",
+    "timestamp": "1985-09-21T19:00:00+07:00",
+    "body": "Tôi cũng từng ra chợ trời mua tấm vải hoa may áo cho con gái đi học. Đắt mà đẹp, con mặc tới trường được khen. Biết không nên nhưng làm mẹ ai chẳng muốn con bằng bạn bằng bè. Thương con thì liều thôi.",
+    "likes": 1345
+  },
+  {
+    "id": "c13",
+    "username": "Tuấn thanh niên",
+    "location": "Hà Nội",
+    "timestamp": "1985-09-21T19:30:00+07:00",
+    "body": "Một chiếc đồng hồ đeo tay là cả niềm mơ ước. Em dành dụm mãi vẫn chưa đủ. Cửa hàng thì không có, ra chợ trời thì sợ mua nhầm hàng dỏm. Thanh niên tụi em mơ một cái đồng hồ mà cũng trầy trật.",
+    "likes": 723
+  }
+]

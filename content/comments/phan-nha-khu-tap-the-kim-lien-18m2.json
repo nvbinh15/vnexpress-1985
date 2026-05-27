@@ -1,0 +1,140 @@
+[
+  {
+    "id": "c1",
+    "username": "Anh Thế Anh được phân nhà",
+    "location": "Hà Nội (khu tập thể Kim Liên)",
+    "timestamp": "1985-04-12T08:42:00+07:00",
+    "body": "Tôi là chủ nhân gian 18m² trong bài đây. Cảm ơn bà con chúc mừng. Đêm qua hai vợ chồng lại không ngủ, bàn kê cái giường chỗ nào, bàn học của con chỗ nào. Sướng mà cũng lo, vì danh sách chờ còn dài, mình may mắn lắm.",
+    "likes": 2456,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Bác hàng xóm tầng hai",
+        "location": "Hà Nội",
+        "timestamp": "1985-04-12T08:58:00+07:00",
+        "body": "Tôi cho anh mượn cái thang hôm dọn nhà đấy. Tầng hai mình tối lửa tắt đèn có nhau, anh chị cứ yên tâm. Mai tôi biếu thêm chậu cây cho có cái mà nhìn.",
+        "likes": 1123
+      },
+      {
+        "id": "c1-r2",
+        "username": "Người trong diện chờ",
+        "location": "Hà Nội",
+        "timestamp": "1985-04-12T09:20:00+07:00",
+        "body": "Mừng cho anh thật lòng. Nhà tôi chờ bảy năm rồi vẫn ở nhờ nhà ngoại. Đọc bài mà vừa vui cho anh vừa tủi cho mình một tí. Nhưng thôi, đến lượt ai người nấy mừng.",
+        "likes": 1789
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Chị Hà vợ anh Thế Anh",
+    "location": "Hà Nội (khu tập thể Kim Liên)",
+    "timestamp": "1985-04-12T09:40:00+07:00",
+    "body": "18m² mà với chúng tôi rộng như cả thế giới. Tôi tính ngăn tấm ri-đô làm chỗ ngủ, kê bàn nước tiếp khách. Có cái ban công phơi đồ là sướng nhất nhà ạ.",
+    "likes": 1934
+  },
+  {
+    "id": "c3",
+    "username": "Mẹ cu Bin",
+    "location": "Hà Nội (khu tập thể Trung Tự)",
+    "timestamp": "1985-04-12T10:00:00+07:00",
+    "body": "Đứng đầu hàng mơ ước! Khu phụ dùng chung tầng nghe thì gắn kết tình làng nghĩa xóm thật, nhưng sáng nào cũng xếp hàng đi vệ sinh với hứng nước thì mới thấy thấm các bác ạ. Vui mà cũng vã.",
+    "likes": 2890
+  },
+  {
+    "id": "c4",
+    "username": "Bác Lộc khu tập thể",
+    "location": "Hà Nội (khu tập thể Giảng Võ)",
+    "timestamp": "1985-04-12T10:25:00+07:00",
+    "body": "Nước máy có giờ, các nhà hứng sẵn vào xô vào vại để dành. Khu tôi cứ tới giờ có nước là cả tầng réo nhau, xô chậu loảng xoảng như đánh trận. Vui đáo để.",
+    "likes": 1456
+  },
+  {
+    "id": "c5",
+    "username": "Chú Ba Sài Gòn",
+    "location": "TP.HCM",
+    "timestamp": "1985-04-12T10:50:00+07:00",
+    "body": "Phải nói thật: 18m² cho cả gia đình mà gọi là cơ hội hiếm có, sản phẩm trong mơ. Cách viết khéo thật đấy. Nhưng thôi, có chỗ chui ra chui vào đàng hoàng là quý rồi, đừng đòi hỏi nhiều.",
+    "likes": 1678
+  },
+  {
+    "id": "c6",
+    "username": "Cô giáo cấp hai",
+    "location": "Hải Phòng",
+    "timestamp": "1985-04-12T11:15:00+07:00",
+    "body": "Cửa sổ nhìn ra sân chung, đón gió mát buổi chiều. Đọc tới đây tôi thèm. Nhà tôi gian trong cùng, quanh năm không thấy nắng, ẩm mốc. Anh chị có gió có nắng là phúc lắm.",
+    "likes": 945
+  },
+  {
+    "id": "c7",
+    "username": "Ông Kính hưu trí",
+    "location": "Hà Nội",
+    "timestamp": "1985-04-12T11:40:00+07:00",
+    "body": "Hồi tôi được phân gian này, cả khu sang xem như xem hội. Nhà mới thì mừng, nhưng cái quý nhất vẫn là hàng xóm tử tế. Anh chị có dãy tầng hai tốt bụng thế là an cư rồi.",
+    "likes": 1234
+  },
+  {
+    "id": "c8",
+    "username": "Thanh nữ mới cưới",
+    "location": "Nam Định",
+    "timestamp": "1985-04-12T12:05:00+07:00",
+    "body": "Vợ chồng em đang ở ghép với nhà chồng, ngăn ri-đô chật chội. Đọc bài mà mơ ước có gian riêng dù chỉ 18m². Anh chị giữ gìn nhé, bao người mơ mà chưa được.",
+    "likes": 1102
+  },
+  {
+    "id": "c9",
+    "username": "Bác Đoàn về hưu",
+    "location": "Vinh",
+    "timestamp": "1985-04-12T12:35:00+07:00",
+    "body": "Gần chợ gần trường, đạp xe ra trung tâm ít phút. Vị trí kết nối nghe sang ghê. Hồi xưa nhà tôi cũng khu tập thể, sáng đạp xe đi làm cả dãy ríu rít, vui hơn bây giờ nhiều.",
+    "likes": 567
+  },
+  {
+    "id": "c10",
+    "username": "Anh Hùng công nhân",
+    "location": "Thái Bình",
+    "timestamp": "1985-04-12T13:00:00+07:00",
+    "body": "Hàng xóm sang chúc mừng, người cho mượn thang, người biếu chậu cây. Cái tình này mới là cái làm nên cái nhà, chứ không phải mấy mét vuông. Mừng cho anh chị.",
+    "likes": 1389
+  },
+  {
+    "id": "c11",
+    "username": "Mai khu tập thể",
+    "location": "Hà Nội (khu tập thể Kim Liên)",
+    "timestamp": "1985-04-12T13:30:00+07:00",
+    "body": "Cùng khu với anh chị đây. Hôm anh chị dọn về cả tầng kéo sang phụ một tay, vui như có hội. Có thêm nhà mới là thêm tiếng trẻ con, thêm rộn ràng. Chào mừng hàng xóm mới!",
+    "likes": 834
+  },
+  {
+    "id": "c12",
+    "username": "Cụ bà bán nước",
+    "location": "Hà Nội",
+    "timestamp": "1985-04-12T14:00:00+07:00",
+    "body": "Nghe tin được phân nhà đêm đó cả hai không ngủ được. Vợ chồng son nào chẳng thế. Cái đêm trằn trọc vì hạnh phúc ấy, để dành mà kể cho con cháu nghe, các cháu ạ.",
+    "likes": 1456
+  },
+  {
+    "id": "c13",
+    "username": "Thành kỹ sư",
+    "location": "Hà Nội",
+    "timestamp": "1985-04-12T14:35:00+07:00",
+    "body": "Cán bộ phụ trách khuyên giữ gìn, sử dụng đúng mục đích diện tích được phân. Nghĩa là không được cơi nới, không được cho thuê lại đấy nhé bà con. Cái này nhiều người hay quên.",
+    "likes": 612
+  },
+  {
+    "id": "c14",
+    "username": "Chị Lan ba con",
+    "location": "Hải Phòng",
+    "timestamp": "1985-04-12T15:10:00+07:00",
+    "body": "18m² cho hai vợ chồng còn rộng, chứ nhà tôi năm người chen trong gian bằng đó thì mới gọi là tài. Ban đêm trở mình còn phải khẽ. Nhưng quen rồi, chật mà ấm.",
+    "likes": 978
+  },
+  {
+    "id": "c15",
+    "username": "Ông giáo già",
+    "location": "Huế",
+    "timestamp": "1985-04-12T15:45:00+07:00",
+    "body": "Tối lửa tắt đèn có nhau. Sáu chữ ấy gói trọn cái hồn của khu tập thể. Bê tông thì lạnh, nhưng người ở trong đó thì ấm. Mong anh chị giữ mãi được cái nếp ấy.",
+    "likes": 1567
+  }
+]

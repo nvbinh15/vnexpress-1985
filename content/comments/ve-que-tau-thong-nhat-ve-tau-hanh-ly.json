@@ -1,0 +1,68 @@
+[
+  {
+    "id": "c1",
+    "username": "Chị Lan tay xách nách mang",
+    "location": "Hà Nội",
+    "timestamp": "1985-11-15T08:12:00+07:00",
+    "body": "Năm nào tôi cũng tay xách nách mang về quê. Nặng thật nhưng nghĩ tới mặt bố mẹ, mấy đứa cháu mừng quà là quên hết mệt. Gói mì chính, bánh xà phòng thơm, tấm vải, mấy quyển vở cho cháu. Quà thành phố quý lắm ở quê.",
+    "likes": 1289,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Mẹ ở quê",
+        "location": "Thái Bình",
+        "timestamp": "1985-11-15T08:30:00+07:00",
+        "body": "Con cứ về là mẹ mừng, quà cáp gì cũng được. Mấy đứa cháu cứ ngóng cô về có bánh xà phòng thơm. Nhưng mẹ chỉ mong con về khoẻ mạnh, đừng vác nặng quá kẻo đau lưng con ạ.",
+        "likes": 945
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Anh Tài đi tàu chợ",
+    "location": "Hải Phòng",
+    "timestamp": "1985-11-15T08:50:00+07:00",
+    "body": "Đứng đầu hàng mua vé! Vé ngày cao điểm không dễ mua, xếp hàng từ sớm có khi đi mấy lượt mới được tấm đúng chuyến. Mua được rồi là thở phào, coi như chuyến về quê chắc một nửa. Cái vé tàu Tết quý như vàng.",
+    "likes": 1102
+  },
+  {
+    "id": "c3",
+    "username": "Bác Đoàn về hưu",
+    "location": "Vinh",
+    "timestamp": "1985-11-15T09:15:00+07:00",
+    "body": "Toa chật ních, hành lý chất đầy giá để đồ và cả dưới gầm ghế, có người mang cả thúng cả bu gà. Đúng cảnh tàu Thống Nhất. Nhưng người lạ thành quen, chia nhau nắm xôi củ khoai, kể chuyện quê suốt chặng. Vui hơn đi xe.",
+    "likes": 834
+  },
+  {
+    "id": "c4",
+    "username": "Cô gái xa quê",
+    "location": "Hà Nội",
+    "timestamp": "1985-11-15T09:45:00+07:00",
+    "body": "Chuyến tàu Thống Nhất là sợi dây nối thành phố với làng quê. Đọc câu này mà nghẹn. Mỗi lần lên tàu là lòng nôn nao, đếm từng ga một, gần tới quê là tim đập rộn. Sắp Tết rồi, lại sắp được về.",
+    "likes": 1456
+  },
+  {
+    "id": "c5",
+    "username": "Ông Kính hưu trí",
+    "location": "Hà Nội",
+    "timestamp": "1985-11-15T10:15:00+07:00",
+    "body": "Người lạ thành quen, chia nhau nắm xôi củ khoai. Cái tình trên tàu Thống Nhất là thứ không vé nào mua được. Tôi quen mấy người bạn già cũng từ chuyến tàu về quê, giờ năm nào cũng thư từ qua lại.",
+    "likes": 723
+  },
+  {
+    "id": "c6",
+    "username": "Bà Sen ba con",
+    "location": "Nam Định",
+    "timestamp": "1985-11-15T10:50:00+07:00",
+    "body": "Hành lý nặng phần nhiều là quà. Đúng thế. Tôi gói cho bố mẹ chồng, bố mẹ đẻ, các cháu, lỉnh kỉnh cả chục túi. Tàu chật mà lòng đầy. Mang quà về cho người thân là cái sướng nhất của người xa quê.",
+    "likes": 612
+  },
+  {
+    "id": "c7",
+    "username": "Anh Hùng công nhân",
+    "location": "Hà Nội",
+    "timestamp": "1985-11-15T11:30:00+07:00",
+    "body": "Ngành đường sắt bảo sẽ tăng cường toa, bố trí thêm chuyến dịp cao điểm. Mong các bác làm thật chứ Tết năm ngoái tôi chen mãi không mua nổi vé. Đề nghị bán vé sớm cho bà con đỡ khổ. Ai cũng mong về quê ăn Tết.",
+    "likes": 567
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "c1",
+    "username": "Anh Thịnh có Cub",
+    "location": "Hà Nội",
+    "timestamp": "1985-06-08T10:12:00+07:00",
+    "body": "Chiếc này tôi gom góp, bán cả chỉ vàng cưới của vợ mới đủ. Đi làm bằng nó, chở con đi học bằng nó, cuối tuần ngồi vừa ba người. Tối dắt vào nhà phủ vải cẩn thận, chăm hơn chăm con mọn.",
+    "likes": 1456,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Chị nhà anh Thịnh",
+        "location": "Hà Nội",
+        "timestamp": "1985-06-08T10:28:00+07:00",
+        "body": "Vâng, chỉ vàng cưới của tôi đấy. Nhưng thôi, có cái xe chở con đi học cho đỡ nắng đỡ mưa cũng đáng. Vàng để trong tủ thì cũng chỉ ngắm, xe thì còn dùng được.",
+        "likes": 1289
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Bác Lộc phố Huế",
+    "location": "Hà Nội",
+    "timestamp": "1985-06-08T10:45:00+07:00",
+    "body": "Hồi tôi tậu được chiếc Cub, cả khu sang xem như xem hội. Có người nhờ chở ra ga, ra viện. Cái xe nó gánh cả tình làng nghĩa xóm. Giờ già rồi nhường cho con, nhưng vẫn nhớ cái thuở oai phong ấy.",
+    "likes": 1102
+  },
+  {
+    "id": "c3",
+    "username": "Chú Ba Sài Gòn",
+    "location": "TP.HCM",
+    "timestamp": "1985-06-08T11:00:00+07:00",
+    "body": "Quy ra cây ra chỉ vàng cho dễ hình dung. Đúng, tiền thì lên xuống chứ mấy cây vàng là ai cũng hiểu ngay. Nhà tôi đổi hết ra vàng rồi, giờ tính mua con Cub mà ngắm mãi chưa dám xuống tiền.",
+    "likes": 1678
+  },
+  {
+    "id": "c4",
+    "username": "Anh Tài mê xe",
+    "location": "Hải Phòng",
+    "timestamp": "1985-06-08T11:20:00+07:00",
+    "body": "Kim vàng giọt lệ là dòng đẹp nhất. Ai có là cả phố biết. Tôi đứng ngắm mãi chiếc của ông hàng xóm, ổng lau từng nan hoa, tôi xin sờ cái yên thôi ổng cũng tiếc.",
+    "likes": 876
+  },
+  {
+    "id": "c5",
+    "username": "Mẹ cu Tý",
+    "location": "Hà Nội (khu tập thể Kim Liên)",
+    "timestamp": "1985-06-08T11:45:00+07:00",
+    "body": "Đứng đầu hàng mơ Cub! Nhưng nhà tôi xe đạp Thống Nhất vẫn chạy tốt chán. Có Honda để dành ngắm thì sang, chứ ngày ngày tôi vẫn tin con xe đạp cọc cạch hơn, mất cũng đỡ xót.",
+    "likes": 1234
+  },
+  {
+    "id": "c6",
+    "username": "Ông Kính hưu trí",
+    "location": "Hà Nội",
+    "timestamp": "1985-06-08T12:10:00+07:00",
+    "body": "Đời tôi đi xe đạp Phượng Hoàng cả đời, chở vợ chở con cũng đủ vui. Honda là của để dành, nhà nào có thì quý, nhà nào không thì cũng chẳng kém ai. Cái sang nằm ở tấm lòng chứ không ở cái xe.",
+    "likes": 1567
+  },
+  {
+    "id": "c7",
+    "username": "Thành kỹ sư",
+    "location": "Hà Nội",
+    "timestamp": "1985-06-08T12:35:00+07:00",
+    "body": "Có nhà tháo cả gương cả yếm cất riêng, chạy ngoài đường đi chậm rãi, đỗ đâu cũng ngó chừng. Đọc mà cười, mà thấy đúng. Cái xe đắt bằng cả gia tài, ai chẳng giữ như giữ mả tổ.",
+    "likes": 945
+  },
+  {
+    "id": "c8",
+    "username": "Chị Lan Nam Định",
+    "location": "Nam Định",
+    "timestamp": "1985-06-08T13:00:00+07:00",
+    "body": "Bán cả chỉ vàng cưới mua xe, đọc tới đó tôi thương chị nhà. Nhưng nghĩ lại, chồng chở vợ con đi đâu cũng có nhau thì cũng là một kiểu của hồi môn. Mỗi nhà một lựa chọn.",
+    "likes": 678
+  },
+  {
+    "id": "c9",
+    "username": "Bác Năm Cần Thơ",
+    "location": "Cần Thơ",
+    "timestamp": "1985-06-08T13:30:00+07:00",
+    "body": "Trong này cũng quy xe ra vàng y vậy. Con Cub ngon đổi được mấy cây, nói ra là thiên hạ lác mắt. Nhưng tôi vẫn khoái chiếc xe đạp, đạp đi miền Tây mát mẻ, chẳng tốn xăng dầu gì.",
+    "likes": 534
+  },
+  {
+    "id": "c10",
+    "username": "Hùng thanh niên",
+    "location": "Vinh",
+    "timestamp": "1985-06-08T14:00:00+07:00",
+    "body": "Mơ ước cả đời của thanh niên là một con Cub với cái đồng hồ đeo tay. Em đang dành dụm, chắc tới khi cưới mới đủ. Có thì để dành, vừa đi vừa ngắm, đúng như bài viết.",
+    "likes": 723
+  }
+]

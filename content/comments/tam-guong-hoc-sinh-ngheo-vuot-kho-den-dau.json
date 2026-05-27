@@ -1,0 +1,126 @@
+[
+  {
+    "id": "c1",
+    "username": "Thầy chủ nhiệm của Tâm",
+    "location": "Hà Nội (ngoại thành)",
+    "timestamp": "1985-06-20T09:12:00+07:00",
+    "body": "Tôi là thầy chủ nhiệm trong bài. Lần đến nhà thấy Tâm giải toán bằng que củi viết lên nền đất sân, tôi vừa thương vừa quý. Em bảo hết giấy mà bài đang nghĩ dở sợ quên. Từ hôm ấy tôi để ý kèm em hơn. Đứa trò như thế, làm thầy ai chẳng dốc lòng.",
+    "likes": 4567,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Em Tâm chăn trâu",
+        "location": "Hà Nội (ngoại thành)",
+        "timestamp": "1985-06-20T09:30:00+07:00",
+        "body": "Thầy ơi em cảm ơn thầy nhiều lắm. Không có sách nâng cao thầy cho mượn, không có những buổi tối thầy kèm riêng, em không đỗ đầu được đâu. Em hứa sẽ học thành tài rồi về giúp quê, giúp thầy.",
+        "likes": 3456
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Bà mẹ vá áo bên đèn dầu",
+    "location": "Hà Nội (ngoại thành)",
+    "timestamp": "1985-06-20T09:50:00+07:00",
+    "body": "Tôi là mẹ cháu Tâm. Tối nó học, tôi ngồi vá áo bên cạnh, hai mẹ con cứ thế tới khuya. Đời tôi không được học, khổ vì cái dốt nhiều rồi. Giờ thấy con ham học, cực mấy tôi cũng chịu. Cảm ơn bà con xóm giềng đã thương cháu.",
+    "likes": 3890,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Cô giáo về hưu",
+        "location": "Huế",
+        "timestamp": "1985-06-20T10:08:00+07:00",
+        "body": "Bác ơi, bác nuôi được đứa con ham học như thế là phúc nhà mình. Cái nghèo có thể làm khổ một đứa trẻ nhưng không lấy đi được khát vọng của nó. Cháu sẽ làm rạng danh dòng họ, bác cứ tin.",
+        "likes": 2103
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Bác hàng xóm cho mượn đèn bão",
+    "location": "Hà Nội (ngoại thành)",
+    "timestamp": "1985-06-20T10:30:00+07:00",
+    "body": "Tôi là bác hàng xóm cho cháu mượn đèn bão những hôm ôn thi. Cả xóm coi nó như con cháu trong nhà, đứa nào học được thì cả làng mừng. Nhà nó khó, nhưng thằng bé ngoan, gặp ai cũng chào. Cả xóm thương cái nết ấy.",
+    "likes": 2890
+  },
+  {
+    "id": "c4",
+    "username": "Mẹ cu Tý",
+    "location": "Hà Nội (khu tập thể Kim Liên)",
+    "timestamp": "1985-06-20T10:55:00+07:00",
+    "body": "Đọc tới đoạn cháu viết vở bằng bút chì rồi tô lại bằng mực để khi cần tẩy đi viết lại, đỡ tốn giấy, mà tôi nghẹn. Con tôi ở phố có đủ giấy bút còn lười học. Tối nay tôi phải cho nó đọc bài này.",
+    "likes": 2456
+  },
+  {
+    "id": "c5",
+    "username": "Chú Ba Sài Gòn",
+    "location": "TP.HCM",
+    "timestamp": "1985-06-20T11:20:00+07:00",
+    "body": "Một bài toán mà nó tìm ra hai ba lối, có lối thầy cũng phải ngẫm. Đứa trẻ này có tố chất thật. Mong nhà trường, mong các cấp để mắt nâng đỡ, đừng để một mầm tài năng lụi đi vì cái nghèo.",
+    "likes": 1789
+  },
+  {
+    "id": "c6",
+    "username": "Ông Kính hưu trí",
+    "location": "Hà Nội",
+    "timestamp": "1985-06-20T11:45:00+07:00",
+    "body": "Sáng chăn trâu, chiều cắt cỏ, tối học bài bên đèn dầu. Đời tôi cũng từng vậy. Cái nghèo nó rèn cho mình ý chí. Cháu Tâm rồi sẽ nên người. Ngọn đèn dầu hôm nay rồi sẽ soi đến những ngày sáng hơn, lời thầy hiệu trưởng hay quá.",
+    "likes": 2234
+  },
+  {
+    "id": "c7",
+    "username": "Anh Hùng cựu học trò nghèo",
+    "location": "Vinh",
+    "timestamp": "1985-06-20T12:10:00+07:00",
+    "body": "Tôi ngày xưa cũng học dưới đèn dầu, sách mượn anh trai gáy long bìa rách. Giờ tôi làm kỹ sư. Tâm ơi cố lên cháu, chú là bằng chứng sống rằng ngọn đèn dầu soi được tới đại học đấy.",
+    "likes": 2678
+  },
+  {
+    "id": "c8",
+    "username": "Cô giáo cấp một",
+    "location": "Nam Định",
+    "timestamp": "1985-06-20T12:40:00+07:00",
+    "body": "Em mơ sau này thi đỗ đại học, học thành tài rồi về giúp quê, giúp bố mẹ đỡ khổ. Đọc ước mơ của cháu mà tôi rưng rưng. Trẻ con nhà nghèo thường hiếu thảo và biết nghĩ sớm. Mong đời không phụ cháu.",
+    "likes": 1567
+  },
+  {
+    "id": "c9",
+    "username": "Đứng đầu cổ vũ Tâm",
+    "location": "Hà Nội",
+    "timestamp": "1985-06-20T13:05:00+07:00",
+    "body": "Đứng đầu hàng cổ vũ cháu Tâm! Đỗ đầu kỳ thi học sinh giỏi huyện trong hoàn cảnh ấy là phi thường. Cả nước nên có thêm nhiều tấm gương như cháu để con em soi vào. Tự hào về cháu.",
+    "likes": 1234
+  },
+  {
+    "id": "c10",
+    "username": "Bà Sen ngoại thành",
+    "location": "Hải Phòng",
+    "timestamp": "1985-06-20T13:35:00+07:00",
+    "body": "Có nhà thương tình mùa gặt xong cho mẹ cháu ít gạo, ít khoai. Cái tình làng quê là thế. Đứa nào học được thì cả làng góp gạo nuôi. Mong cháu Tâm nhớ mãi cái ơn xóm giềng này.",
+    "likes": 1102
+  },
+  {
+    "id": "c11",
+    "username": "Thầy hiệu trưởng trường khác",
+    "location": "Thái Bình",
+    "timestamp": "1985-06-20T14:00:00+07:00",
+    "body": "Hoàn cảnh khó khăn không ngăn được ý chí, miễn có quyết tâm và sự đỡ đần của mọi người. Câu này tôi sẽ đọc cho học trò trường tôi nghe trong buổi chào cờ tới. Tấm gương cháu Tâm xứng đáng lan đi xa.",
+    "likes": 1456
+  },
+  {
+    "id": "c12",
+    "username": "Học sinh lớp tám",
+    "location": "Hà Nội",
+    "timestamp": "1985-06-20T14:30:00+07:00",
+    "body": "Trường em đọc chuyện anh Tâm trong buổi sinh hoạt dưới cờ. Cả lớp im lặng. Em về xin bố mẹ được chăm học hơn. Anh ấy chăn trâu mà vẫn đỗ đầu, em có bàn học đàng hoàng mà còn lười, em xấu hổ lắm.",
+    "likes": 1923
+  },
+  {
+    "id": "c13",
+    "username": "Ông giáo già",
+    "location": "Huế",
+    "timestamp": "1985-06-20T15:00:00+07:00",
+    "body": "Cái nghèo có thể làm khổ một đứa trẻ, nhưng không lấy đi được khát vọng của nó. Tôi dạy học cả đời, gặp không ít em như Tâm. Các em ấy về sau đều thành người tử tế. Khát vọng học hành là thứ không nghèo nào dập tắt nổi.",
+    "likes": 2103
+  }
+]

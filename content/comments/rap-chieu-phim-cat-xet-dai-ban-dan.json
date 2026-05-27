@@ -1,0 +1,92 @@
+[
+  {
+    "id": "c1",
+    "username": "Anh Đăng có cát-xét",
+    "location": "Hà Nội",
+    "timestamp": "1985-08-17T19:12:00+07:00",
+    "body": "Tôi để dành mấy tháng lương mới mua được cái cát-xét cũ. Tối nào cũng mở nho nhỏ, hàng xóm sang nghe ké, vui cả dãy. Băng thì chuyền tay chép đi chép lại, tiếng nhão đi vẫn quý. Cái máy ấy là cả gia tài tinh thần của tôi.",
+    "likes": 1567,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Hàng xóm nghe ké",
+        "location": "Hà Nội",
+        "timestamp": "1985-08-17T19:30:00+07:00",
+        "body": "Tối nào em cũng sang nhà anh nghe ké, ngại quá mà ham. Cảm ơn anh không đuổi. Cái dãy mình tối nào cũng có nhạc, vui hơn hẳn mấy dãy khác. Anh giữ gìn cái máy nhé, hỏng thì cả dãy buồn.",
+        "likes": 834
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Chị Quỳnh đi xem phim",
+    "location": "Hà Nội",
+    "timestamp": "1985-08-17T19:50:00+07:00",
+    "body": "Đi xem phim với người yêu là sang lắm rồi. Hết phim còn dắt xe đạp đi bộ một đoạn, nói chuyện mãi không hết. Tối thứ Bảy ở rạp là khoảnh khắc đẹp nhất tuần. Diện bộ đồ tươm tất nhất, vui như tết.",
+    "likes": 1890
+  },
+  {
+    "id": "c3",
+    "username": "Thanh niên chép băng",
+    "location": "Hải Phòng",
+    "timestamp": "1985-08-17T20:10:00+07:00",
+    "body": "Đứng đầu hàng mê băng! Tôi tỉ mẩn ghi nhãn từng cuộn, xếp ngay ngắn như xếp sách. Bạn bè tới mượn phải ghi sổ đàng hoàng kẻo thất lạc. Một cuộn băng hay quý hơn cả tháng lương đấy các bác.",
+    "likes": 1234
+  },
+  {
+    "id": "c4",
+    "username": "Mẹ cu Tý",
+    "location": "Hà Nội (khu tập thể Trung Tự)",
+    "timestamp": "1985-08-17T20:30:00+07:00",
+    "body": "Cả nhà tôi dắt nhau đi xem phim tối thứ Bảy, coi như sự kiện của cả tuần. Trong rạp tối om, tiếng máy chiếu rè rè, cả khán phòng cùng cười cùng nín thở. Tan suất còn đứng bàn tán mãi mới chịu về.",
+    "likes": 1456
+  },
+  {
+    "id": "c5",
+    "username": "Chú Ba Sài Gòn",
+    "location": "TP.HCM",
+    "timestamp": "1985-08-17T20:55:00+07:00",
+    "body": "Trong này thanh niên cũng mê cát-xét lắm. Nhà nào có một cái là tụ tập cả đám tới nghe. Băng chuyền tay nhau khắp xóm. Phương tiện giản dị mà háo hức thì lúc nào cũng đong đầy, đúng như bài viết.",
+    "likes": 1102
+  },
+  {
+    "id": "c6",
+    "username": "Ông Kính hưu trí",
+    "location": "Hà Nội",
+    "timestamp": "1985-08-17T21:20:00+07:00",
+    "body": "Hồi tôi trẻ làm gì có cát-xét, có cái đài đã quý. Giờ lớp trẻ có máy nghe nhạc, may mắn hơn chúng tôi. Nhưng cái háo hức trước mỗi cuộn băng mới thì thời nào cũng giống nhau. Tuổi trẻ là thế.",
+    "likes": 945
+  },
+  {
+    "id": "c7",
+    "username": "Cô gái mê phim",
+    "location": "Nam Định",
+    "timestamp": "1985-08-17T21:45:00+07:00",
+    "body": "Mua được vé hàng ghế đầu phải ngước cổ suốt buổi mà vẫn vui như tết. Đúng tâm trạng tôi! Được vào rạp là mừng rồi, ghế nào chẳng được. Xem xong cứ lâng lâng cả mấy ngày.",
+    "likes": 723
+  },
+  {
+    "id": "c8",
+    "username": "Anh Tài thợ máy",
+    "location": "Vinh",
+    "timestamp": "1985-08-17T22:10:00+07:00",
+    "body": "Cái cát-xét nhà tôi tiếng rè, tôi tự mày mò sửa mãi mới được. Băng nghe nhiều nhão tiếng, tua đi tua lại bằng bút chì cho đỡ rối. Đồ thời này phải biết chăm mới bền, mà chăm rồi lại càng quý.",
+    "likes": 678
+  },
+  {
+    "id": "c9",
+    "username": "Bà Sen khu tập thể",
+    "location": "Hải Phòng",
+    "timestamp": "1985-08-17T22:40:00+07:00",
+    "body": "Vé xếp hàng từ chiều mới mua được. Khán giả được khuyên mua vé sớm. Tôi rút kinh nghiệm, lần sau cho con đi xếp hàng từ trưa. Một buổi xem phim cuối tuần với cả nhà là niềm vui sang trọng lắm.",
+    "likes": 534
+  },
+  {
+    "id": "c10",
+    "username": "Thanh niên xóm trên",
+    "location": "Hà Nội",
+    "timestamp": "1985-08-17T23:10:00+07:00",
+    "body": "Nhà nào có cát-xét là bạn bè kéo đến nghe. Đúng nhà tôi luôn, tối nào cũng đông như cái câu lạc bộ. Mẹ tôi càu nhàu mà cũng pha trà cho tụi nó. Âm nhạc làm tụi thanh niên xích lại gần nhau.",
+    "likes": 612
+  }
+]

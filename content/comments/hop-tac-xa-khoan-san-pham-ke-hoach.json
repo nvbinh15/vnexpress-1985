@@ -1,0 +1,92 @@
+[
+  {
+    "id": "c1",
+    "username": "Bà Đào xã viên",
+    "location": "Hà Nội (ngoại thành)",
+    "timestamp": "1985-04-28T08:12:00+07:00",
+    "body": "Nhận khoán rồi thì làm như làm cho nhà mình, tiếc gì công. Lúa tốt là tự mình được hưởng, ai chẳng ham. Sáng nay chưa kẻng tôi đã ra đồng, chăm thửa ruộng nhóm mình kỹ hơn trước nhiều.",
+    "likes": 678,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Ông Quý đội trưởng",
+        "location": "Hà Nội (ngoại thành)",
+        "timestamp": "1985-04-28T08:30:00+07:00",
+        "body": "Đúng đấy bà Đào. Khoán xong việc đôn đốc nhẹ hẳn, bà con tự bảo nhau ra đồng đúng giờ. Tinh thần lên thấy rõ. Tôi làm đội trưởng mà giờ chẳng phải gõ kẻng giục ai.",
+        "likes": 534
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Anh Tài xã viên trẻ",
+    "location": "Thái Bình",
+    "timestamp": "1985-04-28T08:50:00+07:00",
+    "body": "Trước kẻng mới ra đồng, giờ chưa kẻng đã thấy người ngoài ruộng. Câu này đúng quá. Khoán tới nhóm là làm nhiều hưởng nhiều, ai cũng phấn khởi. Vụ này nhà tôi quyết chăm cho lúa trĩu bông.",
+    "likes": 612
+  },
+  {
+    "id": "c3",
+    "username": "Bác Đoàn về hưu",
+    "location": "Nam Định",
+    "timestamp": "1985-04-28T09:15:00+07:00",
+    "body": "Đứng đầu hàng ủng hộ khoán! Cách làm gắn công sức với kết quả là hợp lòng dân. Quê tôi cũng khoán, vụ mùa nào cũng khá hơn. Bà con ra đồng từ tinh mơ mà nói cười rộn rã, ai cũng tính phần mình.",
+    "likes": 489
+  },
+  {
+    "id": "c4",
+    "username": "Chị Hoa cấy lúa",
+    "location": "Hà Nội (ngoại thành)",
+    "timestamp": "1985-04-28T09:40:00+07:00",
+    "body": "Các bà các chị cấy thoăn thoắt vừa làm vừa hát. Đúng cảnh đồng tôi luôn. Có khoán rồi cấy hăng hơn, vừa cấy vừa tính cuối vụ phần mình được khá. Lao động mà vui thế thì chẳng thấy mệt.",
+    "likes": 567
+  },
+  {
+    "id": "c5",
+    "username": "Ông Kính hưu trí",
+    "location": "Hà Nội",
+    "timestamp": "1985-04-28T10:10:00+07:00",
+    "body": "Khoán sản phẩm tới người lao động, làm nhiều hưởng nhiều. Tôi thấy cách này hay. Hồi làm chung chia đều, người siêng người lười ăn như nhau, ai mà hăng. Giờ gắn công với của, dân tự khắc chăm.",
+    "likes": 834
+  },
+  {
+    "id": "c6",
+    "username": "Mẹ cu Tý",
+    "location": "Hà Nội (khu tập thể Trung Tự)",
+    "timestamp": "1985-04-28T10:40:00+07:00",
+    "body": "Tôi ở phố nhưng quê có ruộng khoán. Bố mẹ tôi vụ này phấn khởi lắm, gọi điện ra khoe lúa tốt. Mong cuối vụ phần vượt khoán khá, bố mẹ đỡ vất. Nông dân chăm chỉ là đáng quý nhất đời.",
+    "likes": 612
+  },
+  {
+    "id": "c7",
+    "username": "Bác Năm Cần Thơ",
+    "location": "Cần Thơ",
+    "timestamp": "1985-04-28T11:10:00+07:00",
+    "body": "Trong này ruộng đồng mênh mông, khoán xong bà con cũng hăng ra đồng sớm. Lúa miền Tây trĩu hạt. Cách làm gắn công với của này ở đâu cũng được lòng dân. Mừng cho bà con ngoài Bắc.",
+    "likes": 489
+  },
+  {
+    "id": "c8",
+    "username": "Anh Hùng cán bộ xã",
+    "location": "Vinh",
+    "timestamp": "1985-04-28T11:45:00+07:00",
+    "body": "Ban chủ nhiệm hỗ trợ giống và phân bón theo kế hoạch, phấn đấu hoàn thành chỉ tiêu. Cái quan trọng là giống phân về kịp vụ. Mong các bác lo cho bà con đủ phân đủ giống, chứ khoán mà thiếu phân thì lúa cũng khó tốt.",
+    "likes": 423
+  },
+  {
+    "id": "c9",
+    "username": "Cô giáo về quê",
+    "location": "Thái Bình",
+    "timestamp": "1985-04-28T12:20:00+07:00",
+    "body": "Về quê thấy bà con ra đồng từ tinh mơ, tiếng nói cười rộn cả cánh đồng. Khoán làm người ta yêu thửa ruộng hơn. Nhìn mẹ tôi chăm lúa mà chăm con, tôi mới hiểu cái khoán nó thay đổi lòng người thế nào.",
+    "likes": 567
+  },
+  {
+    "id": "c10",
+    "username": "Bà Sen nội trợ",
+    "location": "Hà Nội",
+    "timestamp": "1985-04-28T13:00:00+07:00",
+    "body": "Vụ mùa khả quan thì gạo dồi dào hơn, chúng tôi ở phố cũng đỡ phải độn ngô độn khoai. Mong bà con xã viên trúng vụ. Hạt gạo nào ra chợ cũng là mồ hôi của người nông dân cả.",
+    "likes": 678
+  }
+]

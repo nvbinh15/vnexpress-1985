@@ -1,0 +1,102 @@
+[
+  {
+    "id": "c1",
+    "username": "Bà Tỵ mẹ thí sinh",
+    "location": "Hà Tây",
+    "timestamp": "1985-07-09T11:42:00+07:00",
+    "body": "Tôi là bà mẹ đứng chờ con ngoài cổng trong bài đây. Nuôi nó ăn học mong nó đỗ để đổi đời. Nhưng tôi cũng dặn, đỗ trượt là chuyện học hành, miễn con cố hết sức là mẹ vui. Cầm cặp lồng cơm đứng nắng cả buổi mà lòng cứ thấp thỏm.",
+    "likes": 1923,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Em Bảo thí sinh",
+        "location": "Hà Nội",
+        "timestamp": "1985-07-09T12:00:00+07:00",
+        "body": "Mẹ ơi con làm được khoảng tám phần rồi. Giờ con về phụ bố mẹ rồi chờ kết quả. Mẹ đừng đứng nắng nữa, con thi xong rồi. Hồi hộp lắm nhưng con đã cố hết sức.",
+        "likes": 1289
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Sĩ tử đèn dầu",
+    "location": "Thái Bình",
+    "timestamp": "1985-07-09T12:20:00+07:00",
+    "body": "Em học thuộc tới mức nhắm mắt cũng đọc được. Nhà mất điện, em vặn bấc đèn dầu nhỏ cho đỡ tốn, ghé sát mà ôn. Câu khó cuối đề Toán em ngồi cắn bút mãi. Học tài thi phận, giờ chỉ biết cầu may.",
+    "likes": 1456
+  },
+  {
+    "id": "c3",
+    "username": "Cô giáo luyện thi",
+    "location": "Hà Nội",
+    "timestamp": "1985-07-09T12:45:00+07:00",
+    "body": "Đề vừa sức nhưng phân loại tốt. Tôi đồng ý với nhận xét đó. Câu khó cuối đề Toán là để chọn ra em thật xuất sắc. Học trò tôi đứa làm được đứa không, nhưng đứa nào cố cũng đều đáng quý.",
+    "likes": 967,
+    "replies": [
+      {
+        "id": "c3-r1",
+        "username": "Phụ huynh lo lắng",
+        "location": "Hải Phòng",
+        "timestamp": "1985-07-09T13:05:00+07:00",
+        "body": "Cô ơi con tôi vào phòng thi run quá làm bài không như ý, mà ở nhà cháu học giỏi lắm. Đúng là học tài thi phận. Liệu sang năm thi lại có muộn không cô?",
+        "likes": 534
+      }
+    ]
+  },
+  {
+    "id": "c4",
+    "username": "Ông Kính hưu trí",
+    "location": "Hà Nội",
+    "timestamp": "1985-07-09T13:30:00+07:00",
+    "body": "Học tài thi phận. Bốn chữ này đời nào cũng đúng. Có em giỏi cả năm vào phòng thi run, có em bình thường lại trúng tủ. Nhưng tôi tin cái học nó không mất đi đâu, đỗ hay trượt thì cái chữ vẫn theo mình cả đời.",
+    "likes": 1234
+  },
+  {
+    "id": "c5",
+    "username": "Mẹ cu Tèo",
+    "location": "Nam Định",
+    "timestamp": "1985-07-09T13:55:00+07:00",
+    "body": "Thi xong rồi, đỗ thì mừng, trượt thì sang năm thi lại, đời còn dài. Tôi cũng động viên con y câu này. Nhưng nói thì nói thế chứ đêm nào tôi cũng khấn cho nó đỗ, mẹ nào chẳng mong con nên người.",
+    "likes": 1567
+  },
+  {
+    "id": "c6",
+    "username": "Anh Hùng cựu sĩ tử",
+    "location": "Vinh",
+    "timestamp": "1985-07-09T14:20:00+07:00",
+    "body": "Năm xưa tôi trượt một lần, năm sau đỗ. Trượt không phải hết đường. Các em đừng buồn quá. Phụ huynh cũng đừng tạo áp lực, học tài thi phận mà, có cố hết sức là đáng tự hào rồi.",
+    "likes": 1102
+  },
+  {
+    "id": "c7",
+    "username": "Đứng đầu cổng trường",
+    "location": "Hà Nội",
+    "timestamp": "1985-07-09T14:45:00+07:00",
+    "body": "Đứng đầu hàng chúc các sĩ tử! Hàng trăm phụ huynh đứng chờ con dưới nắng, người cầm quạt nan, người ôm cặp lồng cơm. Cảnh ấy năm nào cũng cảm động. Cha mẹ nào cũng dồn cả hy vọng vào đứa con đi thi.",
+    "likes": 834
+  },
+  {
+    "id": "c8",
+    "username": "Thuý chị gái thí sinh",
+    "location": "Hải Phòng",
+    "timestamp": "1985-07-09T15:10:00+07:00",
+    "body": "Em tôi thi xong ra muộn, vừa đi vừa tranh luận đáp số câu cuối với bạn. Về tới nhà mặt méo xệch vì sai một dấu. Tôi bảo thôi sai thì sai rồi, về ăn cơm cái đã. Trẻ con thi cử căng thẳng tội ghê.",
+    "likes": 678
+  },
+  {
+    "id": "c9",
+    "username": "Bác Năm Cần Thơ",
+    "location": "Cần Thơ",
+    "timestamp": "1985-07-09T15:40:00+07:00",
+    "body": "Trong này tụi nhỏ cũng thức ôn bài tới khuya. Cha mẹ chờ ngoài cổng y vậy. Cả nước cùng một mùa thi, cùng một nỗi hồi hộp. Chúc các cháu chân cứng đá mềm.",
+    "likes": 745
+  },
+  {
+    "id": "c10",
+    "username": "Bà Sen ngoại thành",
+    "location": "Hà Nội",
+    "timestamp": "1985-07-09T16:10:00+07:00",
+    "body": "Các sĩ tử tạm gác sách vở trở về với mùa hè và việc đồng áng. Đúng, thi xong là về phụ bố mẹ. Con tôi thi xong sáng hôm sau đã ra đồng gặt lúa. Học hay làm, đứa nào ngoan là tôi mừng.",
+    "likes": 612
+  }
+]

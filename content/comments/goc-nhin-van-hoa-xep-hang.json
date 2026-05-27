@@ -1,0 +1,150 @@
+[
+  {
+    "id": "c1",
+    "username": "Bác Tư bí kíp xếp hàng",
+    "location": "Hà Nội (khu tập thể Kim Liên)",
+    "timestamp": "1985-08-03T07:12:00+07:00",
+    "body": "Đứng đầu hàng bình luận! Mà nói thật, tôi đứng đầu được là nhờ viên gạch số 1 sơn đỏ giữ chỗ từ 4h. Tác giả viết quá đúng: viên gạch không biết nói mà cả hàng ai cũng nể. Đó là cái luật thiêng nhất khu này.",
+    "likes": 3120
+  },
+  {
+    "id": "c2",
+    "username": "Cô giáo về hưu",
+    "location": "Huế",
+    "timestamp": "1985-08-03T07:28:00+07:00",
+    "body": "Tôi dạy học bốn mươi năm, đọc bài này thấy tác giả nói hộ cả lòng mình. Thoả ước không cần dấu đỏ mà giữ nghiêm hơn quy định có dấu đỏ. Câu này nên treo ở mỗi đầu hàng. Văn hoá là thế, không ai dạy mà ai cũng làm.",
+    "likes": 4567,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Thành sinh viên",
+        "location": "Hà Nội",
+        "timestamp": "1985-08-03T07:45:00+07:00",
+        "body": "Cô nói chí lý. Em là sinh viên, đứng hàng mua dầu hay tranh thủ học bài. Có lần quên giáo trình, bác đứng cạnh cho mượn báo đọc đỡ. Tình người nơi đầu hàng thật chứ không phải nói cho hay.",
+        "likes": 1289
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Ông Kính hưu trí",
+    "location": "Hà Nội",
+    "timestamp": "1985-08-03T08:00:00+07:00",
+    "body": "Tôi chính là cụ già lập cập tìm tiền lẻ mà tác giả kể trong bài đó chăng? Hôm nào ở hàng dầu cũng có người như tôi. Cảm ơn các cháu thanh niên không giục, còn cúi nhặt giúp đồng hào rơi. Lòng tốt nhỏ mà nhớ cả đời.",
+    "likes": 5234,
+    "replies": [
+      {
+        "id": "c3-r1",
+        "username": "Anh thanh niên nhặt hào",
+        "location": "Hà Nội",
+        "timestamp": "1985-08-03T08:18:00+07:00",
+        "body": "Cụ ơi cụ đừng cảm ơn, chuyện nhỏ thôi mà. Hôm nay con đỡ cụ, mai con già con cũng mong có người đỡ con. Hôm nay mình ở cuối, mai có thể mình ở đầu, đúng như bài viết.",
+        "likes": 2103
+      },
+      {
+        "id": "c3-r2",
+        "username": "Mẹ cu Bin",
+        "location": "Hà Nội (khu tập thể Trung Tự)",
+        "timestamp": "1985-08-03T08:40:00+07:00",
+        "body": "Đọc hai bác qua lại mà ấm cả lòng. Cái hàng người tưởng chỉ là chờ đợi, hoá ra là cả một xã hội tử tế thu nhỏ. Ai bảo xếp hàng chỉ có khổ.",
+        "likes": 1456
+      }
+    ]
+  },
+  {
+    "id": "c4",
+    "username": "Chú Ba hoài nghi",
+    "location": "TP.HCM",
+    "timestamp": "1985-08-03T09:00:00+07:00",
+    "body": "Tác giả viết hay, nhưng nói thẳng: chẳng ai muốn dậy 4h sáng đứng co ro chờ cân thịt cả. Tôi ủng hộ vế cuối: mong một ngày hàng hoá dồi dào để viên gạch chỉ còn là chuyện kể. Cái nếp tử tế thì giữ, còn cái khổ thì xin chừa.",
+    "likes": 2890
+  },
+  {
+    "id": "c5",
+    "username": "Chị Lan làm quen ở hàng vé",
+    "location": "Hải Phòng",
+    "timestamp": "1985-08-03T09:25:00+07:00",
+    "body": "Tác giả nói những đôi trai gái làm quen bên hàng vé tàu. Em đây! Quen nhà em ở hàng mua vé Thống Nhất, đứng cạnh nhau bốn tiếng, về thành đôi. Giờ hai đứa hai con rồi. Hàng người làm mối mát tay phết.",
+    "likes": 3456
+  },
+  {
+    "id": "c6",
+    "username": "Bác Đoàn về hưu",
+    "location": "Vinh",
+    "timestamp": "1985-08-03T09:50:00+07:00",
+    "body": "Sự kiên nhẫn cũng là một đức tính. Tôi đứng hàng cả đời, rèn được tính nhẫn nại đến giờ con cháu nó cãi cũng không cáu. Cái hàng người nó dạy mình nhiều thứ mà sách vở không dạy.",
+    "likes": 1234
+  },
+  {
+    "id": "c7",
+    "username": "Cô Hồng nội trợ",
+    "location": "Hà Nội",
+    "timestamp": "1985-08-03T10:15:00+07:00",
+    "body": "Những bà nội trợ trao nhau công thức nấu ăn trong lúc nhích từng bước. Đúng quá! Tôi học được cách kho cá không tanh, cách độn cơm khéo, toàn ở hàng mua gạo cả. Hàng người là cái chợ thông tin của các bà.",
+    "likes": 1789
+  },
+  {
+    "id": "c8",
+    "username": "Thuý cán bộ trẻ",
+    "location": "Nam Định",
+    "timestamp": "1985-08-03T10:40:00+07:00",
+    "body": "Người xếp hàng giỏi là người biết chờ mà vẫn giữ nét mặt hoà nhã. Tôi đang tập theo. Nhưng thú thật, hôm nào đói bụng đứng lâu là cái nét hoà nhã nó cũng lung lay lắm các bác ạ.",
+    "likes": 945
+  },
+  {
+    "id": "c9",
+    "username": "Anh Hùng công nhân",
+    "location": "Thái Bình",
+    "timestamp": "1985-08-03T11:05:00+07:00",
+    "body": "Người đến sau nhìn viên gạch rồi lặng lẽ đặt đồ phía sau, không ai cần ra lệnh. Cái trật tự tự giác này quý hơn vàng. Ở đâu có lòng tin thì ở đó không cần người gác.",
+    "likes": 1567
+  },
+  {
+    "id": "c10",
+    "username": "Cụ bà bán nước",
+    "location": "Hà Nội",
+    "timestamp": "1985-08-03T11:30:00+07:00",
+    "body": "Tôi ngồi bán nước đầu hàng cả chục năm, chứng kiến biết bao nhiêu cảnh tử tế. Người nhường người già, người chia nhau gói xôi, người trông đồ hộ nhau. Cái nếp ấy mong con cháu sau này đừng đánh rơi.",
+    "likes": 2234
+  },
+  {
+    "id": "c11",
+    "username": "Ông giáo già",
+    "location": "Huế",
+    "timestamp": "1985-08-03T12:00:00+07:00",
+    "body": "Cách một cộng đồng xếp hàng nói lên cách cộng đồng ấy đối xử với nhau. Câu kết hay nhất bài. Tôi sẽ chép lại cho học trò. Bắt đầu giản dị thôi, bằng việc tôn trọng một viên gạch.",
+    "likes": 1923
+  },
+  {
+    "id": "c12",
+    "username": "Chị Mai ba con",
+    "location": "Hà Nội",
+    "timestamp": "1985-08-03T12:30:00+07:00",
+    "body": "Tôi để viên gạch giữ chỗ rồi chạy về cho con bú là chuyện thường ngày. Cảm ơn cả hàng đã ngầm hiểu viên gạch là một người. Không có cái thoả ước ấy thì các bà mẹ bỉm sữa chúng tôi chết.",
+    "likes": 1678
+  },
+  {
+    "id": "c13",
+    "username": "Bác Năm Cần Thơ",
+    "location": "Cần Thơ",
+    "timestamp": "1985-08-03T13:00:00+07:00",
+    "body": "Trong này ít dùng viên gạch hơn, hay dùng cái nón lá hay đôi dép. Nhưng cái tinh thần thì y chang ngoài Bắc. Cả nước cùng một văn hoá xếp hàng, đọc mà thấy gần gũi lạ.",
+    "likes": 1102
+  },
+  {
+    "id": "c14",
+    "username": "Tuấn thanh niên",
+    "location": "Hà Nội",
+    "timestamp": "1985-08-03T13:35:00+07:00",
+    "body": "Tôi tin ngày hàng hoá dồi dào rồi sẽ đến. Tác giả lạc quan mà tôi cũng tin theo. Nhưng tới ngày ấy, mong mình vẫn giữ được cái nết nhường nhau. Của cải có thể đầy lên, lòng người đừng vơi đi.",
+    "likes": 2456
+  },
+  {
+    "id": "c15",
+    "username": "Bà Sen khu tập thể",
+    "location": "Hải Phòng",
+    "timestamp": "1985-08-03T14:10:00+07:00",
+    "body": "Những tình bạn bắt đầu từ hàng mua gạo. Bạn thân nhất đời tôi quen ở hàng gạo năm bảy mấy, giờ vẫn qua lại. Hàng người chật chội mà se duyên đủ thứ: bạn bè, vợ chồng, hàng xóm. Ấm thật.",
+    "likes": 1345
+  }
+]

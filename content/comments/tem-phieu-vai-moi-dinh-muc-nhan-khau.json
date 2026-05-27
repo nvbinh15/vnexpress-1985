@@ -1,0 +1,68 @@
+[
+  {
+    "id": "c1",
+    "username": "Bà Tâm khu Trung Tự",
+    "location": "Hà Nội (khu tập thể Trung Tự)",
+    "timestamp": "1985-03-05T08:12:00+07:00",
+    "body": "Đứng đầu hàng phiếu vải! Mẹo bao đời nhà tôi: đo người cho chuẩn rồi hẵng cắt, cắt phiếu là không lấy lại được đâu các chị. Đo hụt một tí là con mặc cũn cỡn cả năm.",
+    "likes": 678
+  },
+  {
+    "id": "c2",
+    "username": "Mẹ ba đứa",
+    "location": "Nam Định",
+    "timestamp": "1985-03-05T08:28:00+07:00",
+    "body": "Nhà tôi gộp phiếu của ba đứa lại may một thể cho hợp lý. Trẻ con lớn nhanh, may rộng ra một tí là mặc được hai mùa. Áo anh cả sờn thì sửa cho thằng út, đến đời thứ ba thành giẻ lau.",
+    "likes": 945,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Chị Hoa công nhân",
+        "location": "Hải Phòng",
+        "timestamp": "1985-03-05T08:45:00+07:00",
+        "body": "Chuẩn chị ạ. Nhà em cái áo bông truyền từ chị sang em, vá chằng vá đụp mà vẫn ấm. Vải vụn em để dành may túi, may khăn, chẳng bỏ tí nào.",
+        "likes": 423
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Cô Lan thợ may",
+    "location": "Hà Nội",
+    "timestamp": "1985-03-05T09:05:00+07:00",
+    "body": "Tin nhỏ cho bà con: bách hoá phố Huế còn loại vải bền màu may đồ đi làm đấy, ai cần thì tranh thủ. Đợt mới phát phiếu thường đông, đi sớm cho đỡ chen.",
+    "likes": 567
+  },
+  {
+    "id": "c4",
+    "username": "Bác Quý hưu trí",
+    "location": "Huế",
+    "timestamp": "1985-03-05T09:40:00+07:00",
+    "body": "Đời tôi mặc vải xô vải thô quen rồi. Phiếu của tôi để dành cho mấy đứa cháu, chúng nó đi học cần áo mới hơn ông già. Mình già rồi mặc gì chẳng được.",
+    "likes": 734
+  },
+  {
+    "id": "c5",
+    "username": "Thuý mới ra phố",
+    "location": "Hà Nội",
+    "timestamp": "1985-03-05T10:20:00+07:00",
+    "body": "Em mới về làm dâu, chưa quen cắt phiếu, cắt nhầm mất nửa mét. Mẹ chồng nhắc mãi. Giờ em đo ba lần mới dám cắt một lần, cẩn thận hết mức.",
+    "likes": 389
+  },
+  {
+    "id": "c6",
+    "username": "Bà Sen Thái Bình",
+    "location": "Thái Bình",
+    "timestamp": "1985-03-05T11:00:00+07:00",
+    "body": "Định mức năm nay giữ ổn định là mừng rồi. Có tấm vải may cho con bộ đồ Tết tươm tất là cả nhà vui. Giản dị thôi mà ấm.",
+    "likes": 512
+  },
+  {
+    "id": "c7",
+    "username": "Anh Hùng cán bộ",
+    "location": "Vinh",
+    "timestamp": "1985-03-05T11:45:00+07:00",
+    "body": "Đọc cái câu xem kỹ định mức ở nhà trước khi ra cửa hàng mà thấy đúng. Lần trước tôi quên, ra tới nơi mới lục túi tìm phiếu, làm cả hàng chờ. Ngại với bà con quá.",
+    "likes": 298
+  }
+]

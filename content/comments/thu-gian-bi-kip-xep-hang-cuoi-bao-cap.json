@@ -1,0 +1,68 @@
+[
+  {
+    "id": "c1",
+    "username": "Bác Tư bí kíp xếp hàng",
+    "location": "Hà Nội (khu tập thể Kim Liên)",
+    "timestamp": "1985-10-05T16:12:00+07:00",
+    "body": "Tôi là bác Tư trong bài đây! Gạch số 1 mua gạo, số 2 mua thịt, số 3 mua dầu. Phân công đồng bộ, không chồng chéo. Người ta bảo tôi rỗi hơi, tôi bảo xếp hàng mà có tổ chức thì cả nhà đỡ vất. Đấy là khoa học chứ đùa à!",
+    "likes": 3456,
+    "replies": [
+      {
+        "id": "c1-r1",
+        "username": "Thằng út cầm nhầm gạch",
+        "location": "Hà Nội",
+        "timestamp": "1985-10-05T16:30:00+07:00",
+        "body": "Con là thằng út cầm nhầm gạch số 2 ra hàng dầu, đứng cả buổi mới biết đây bố ơi. Bố sơn số to lên tí nữa đi, con nhìn không rõ. Cả nhà tiếc hùi hụi vì con mà mất chỗ.",
+        "likes": 2103
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "username": "Hàng xóm bác Tư",
+    "location": "Hà Nội",
+    "timestamp": "1985-10-05T16:50:00+07:00",
+    "body": "Cả dãy nhà tôi phục bác Tư sát đất. Bộ sưu tập gạch đánh số của bác đúng là độc nhất vô nhị. Nhưng có lần viên gạch đại diện của bác bị người ta đá văng, mất chỗ, bác tiếc tới mức nhắc cả tuần. Cười muốn xỉu.",
+    "likes": 1567
+  },
+  {
+    "id": "c3",
+    "username": "Mẹ cu Tý",
+    "location": "Hà Nội (khu tập thể Trung Tự)",
+    "timestamp": "1985-10-05T17:10:00+07:00",
+    "body": "Đứng đầu hàng cười! Nhà tôi cũng có bí kíp riêng: cử thằng lớn xếp hàng gạo, con bé xếp hàng dầu, mẹ thổi cơm. Nhưng chưa tới mức sơn số lên gạch như bác Tư. Bác nâng tầm nghệ thuật xếp hàng thật rồi.",
+    "likes": 1890
+  },
+  {
+    "id": "c4",
+    "username": "Chú Ba Sài Gòn",
+    "location": "TP.HCM",
+    "timestamp": "1985-10-05T17:35:00+07:00",
+    "body": "Đọc mà cười ra nước mắt. Trên cánh tủ chè dán hẳn bảng phân công ai dậy sớm xếp hàng nào, ai về thổi cơm. Đúng là quản lý gia đình kiểu kế hoạch hoá. Bác Tư mà đi làm chủ nhiệm hợp tác xã thì nhất.",
+    "likes": 1678
+  },
+  {
+    "id": "c5",
+    "username": "Bác Đoàn về hưu",
+    "location": "Hải Phòng",
+    "timestamp": "1985-10-05T18:00:00+07:00",
+    "body": "Nghề chơi cũng lắm công phu. Tôi cười khúc khích cả buổi vì cái vụ cầm nhầm gạch số 2 ra hàng dầu. Đời thường mà vui thế. Trong cái khó bà con mình vẫn tìm ra cách để cười, đó mới là cái tài.",
+    "likes": 1234
+  },
+  {
+    "id": "c6",
+    "username": "Cô giáo về hưu",
+    "location": "Huế",
+    "timestamp": "1985-10-05T18:30:00+07:00",
+    "body": "Trong khu này ai chẳng có một bí kíp riêng để cái hàng dài dằng dặc hoá ra nhẹ nhõm. Câu kết hay mà thấm. Cái khổ mà biết cười với nó thì cũng nhẹ đi một nửa. Cảm ơn tác giả cho một mẩu chuyện vui mà thật.",
+    "likes": 1456
+  },
+  {
+    "id": "c7",
+    "username": "Anh Tài thợ điện",
+    "location": "Vinh",
+    "timestamp": "1985-10-05T19:00:00+07:00",
+    "body": "Sáng các con bác Tư cầm gạch toả đi mấy hàng cùng lúc. Hình dung cảnh ấy mà tôi cười không nhịn được. Nhà nào đông con thì đúng là một đội quân xếp hàng. Bác Tư chỉ huy tài thật.",
+    "likes": 967
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "c1",
+    "username": "Mẹ cu Bin",
+    "location": "Hà Nội (khu tập thể Kim Liên)",
+    "timestamp": "1985-07-22T05:22:00+07:00",
+    "body": "Đứng đầu tiên! Mà đứng đầu comment thôi nhé, chứ ngoài hàng thịt tôi thứ ba mươi mấy rồi. Viên gạch đặt từ 3h30 vẫn không ăn thua, có người dậy còn sớm hơn cả gà.",
+    "likes": 876
+  },
+  {
+    "id": "c2",
+    "username": "Bác Tư mê thịt nạc",
+    "location": "Hà Nội",
+    "timestamp": "1985-07-22T05:38:00+07:00",
+    "body": "Hôm nay có thịt là mừng rồi. Về kho với mấy quả cà, cả nhà có bữa tươi. Lâu lắm mới được miếng nạc đàng hoàng, nghĩ mà chảy nước miếng.",
+    "likes": 1203,
+    "replies": [
+      {
+        "id": "c2-r1",
+        "username": "Cô Hồng nội trợ",
+        "location": "Hà Nội",
+        "timestamp": "1985-07-22T05:55:00+07:00",
+        "body": "Bác tới sớm được phần nạc là may. Em ra muộn toàn mỡ với xương. Nhưng xương ninh nồi canh cũng quý bác ạ, chẳng bỏ đi tí nào.",
+        "likes": 645
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "username": "Chị Hồng giữ chỗ",
+    "location": "Hà Nội",
+    "timestamp": "1985-07-22T06:12:00+07:00",
+    "body": "Mẹo của tôi: để viên gạch giữ chỗ rồi chạy về cho con bú, quay ra vẫn còn chỗ. Cả hàng ngầm hiểu với nhau, viên gạch là một người. Cái luật bất thành văn này thiêng lắm các chị ạ.",
+    "likes": 1567
+  },
+  {
+    "id": "c4",
+    "username": "Thành cán bộ trẻ",
+    "location": "Hà Nội",
+    "timestamp": "1985-07-22T06:30:00+07:00",
+    "body": "Cô mậu dịch viên tay thoăn thoắt trên cái cân đĩa, cắt ô phiếu nhanh như máy. Phục thật. Cả buổi sáng đứng cân thịt cho cả phố, mỏi tay biết bao nhiêu.",
+    "likes": 423
+  },
+  {
+    "id": "c5",
+    "username": "Bà Loan Nam Định",
+    "location": "Nam Định",
+    "timestamp": "1985-07-22T06:48:00+07:00",
+    "body": "Nhà tôi cử thằng cu lớp năm ra đứng giữ chỗ thay, bố mẹ tranh thủ chạy về thổi cơm. Nó đứng ngoan, ai hỏi cũng bảo cháu đứng thay mẹ. Thương thật.",
+    "likes": 789
+  },
+  {
+    "id": "c6",
+    "username": "Anh Hùng đi làm ca",
+    "location": "Hải Phòng",
+    "timestamp": "1985-07-22T07:10:00+07:00",
+    "body": "Khổ nhất là dân đi làm ca như tôi. Hàng thịt mở thì mình đang trong xưởng, tan ca ra thì bảng đã lật mặt hết hàng. Cả tháng chả mua nổi suất thịt đúng giờ.",
+    "likes": 1034,
+    "replies": [
+      {
+        "id": "c6-r1",
+        "username": "Mẹ cu Bin",
+        "location": "Hà Nội (khu tập thể Kim Liên)",
+        "timestamp": "1985-07-22T07:28:00+07:00",
+        "body": "Anh nhờ hàng xóm mua hộ rồi đưa phiếu, tối về tính tiền nhau. Xóm tôi hay đỡ nhau kiểu đó, ai rảnh thì đi mua giùm cả mấy nhà một thể.",
+        "likes": 567
+      }
+    ]
+  },
+  {
+    "id": "c7",
+    "username": "Cụ Kính hưu trí",
+    "location": "Hà Nội",
+    "timestamp": "1985-07-22T07:50:00+07:00",
+    "body": "Tôi đứng cuối hàng, được phần nhiều xương. Về bà nhà tôi ninh nồi canh với quả su hào, ngọt nước lắm. Người ta cứ chê xương chứ tôi thấy bữa nào có canh xương là sang.",
+    "likes": 698
+  },
+  {
+    "id": "c8",
+    "username": "Thuý sinh viên",
+    "location": "Hà Nội",
+    "timestamp": "1985-07-22T08:20:00+07:00",
+    "body": "Bảng treo trước quầy lật sang mặt hết hàng là cả mấy chục con người tần ngần. Cái khoảnh khắc đó buồn cười mà cũng tội. Thôi hẹn mai dậy sớm hơn vậy.",
+    "likes": 512
+  },
+  {
+    "id": "c9",
+    "username": "Bác Năm Cần Thơ",
+    "location": "Cần Thơ",
+    "timestamp": "1985-07-22T08:55:00+07:00",
+    "body": "Đọc mà thèm. Trong này thịt cũng phải xếp hàng nhưng đỡ căng hơn ngoài Bắc. Cả nước cùng một nỗi xếp hàng mua thịt, nghĩ cũng thấy thân thương các bác ạ.",
+    "likes": 834
+  },
+  {
+    "id": "c10",
+    "username": "Mẹ ba con Thái Bình",
+    "location": "Thái Bình",
+    "timestamp": "1985-07-22T09:30:00+07:00",
+    "body": "Cửa hàng bảo sẽ cố gắng tăng cường nguồn hàng dịp tới. Nghe câu đó quen quá, nhưng vẫn mừng. Cứ có hàng về là bà con lại có động lực dậy sớm.",
+    "likes": 445
+  },
+  {
+    "id": "c11",
+    "username": "Ông Đoàn về hưu",
+    "location": "Vinh",
+    "timestamp": "1985-07-22T10:15:00+07:00",
+    "body": "Hồi trẻ tôi khoẻ, xếp hàng cả buổi không sao. Giờ già rồi đứng một lúc đã mỏi gối. May có thằng cháu nó đi thay. Tuổi nào việc nấy, cái hàng thịt nó cũng phân vai rõ ràng.",
+    "likes": 389
+  }
+]

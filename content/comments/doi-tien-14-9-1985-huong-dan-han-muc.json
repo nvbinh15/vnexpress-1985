@@ -1,0 +1,208 @@
+[
+  {
+    "id": "c1",
+    "username": "Bà Tư Kim Liên",
+    "location": "Hà Nội (khu tập thể Kim Liên)",
+    "timestamp": "1985-09-14T05:42:00+07:00",
+    "body": "Cả khu nhà tôi đêm qua không ai ngủ. 2h sáng còn nghe tiếng đếm tiền lạch xạch bên buồng nhà bác Mùi. Sáng nay ra hàng thì người ta đã đứng kín từ bao giờ, viên gạch của tôi đặt từ 4h mà vẫn thứ hai mươi mấy.",
+    "likes": 1843
+  },
+  {
+    "id": "c2",
+    "username": "Hùng đạp xích lô",
+    "location": "Hà Nội",
+    "timestamp": "1985-09-14T05:55:00+07:00",
+    "body": "Đứng đầu hàng comment cái đã. Đứng hàng đổi tiền từ 4h, đứng hàng bình luận thì khỏi cần dậy sớm, sướng thật.",
+    "likes": 967
+  },
+  {
+    "id": "c3",
+    "username": "Ông Kính hưu trí",
+    "location": "Hà Nội",
+    "timestamp": "1985-09-14T06:10:00+07:00",
+    "body": "Tôi năm nay bảy mươi mốt, chứng kiến mấy bận rồi. Nói thật với các cô các chú: tiền nong là vật ngoài thân. Cứ ra đổi cho đàng hoàng, giữ kỹ giấy tờ, rồi về ngồi uống chén trà nóng với con cháu là quý nhất. Đừng nghe ngoài chợ rỉ tai mà mất ăn mất ngủ.",
+    "likes": 3120,
+    "replies": [
+      {
+        "id": "c3-r1",
+        "username": "Thanh nữ công nhân",
+        "location": "Hải Phòng",
+        "timestamp": "1985-09-14T06:24:00+07:00",
+        "body": "Cụ nói nhẹ tênh mà con đọc xong thấy đỡ lo hẳn. Cảm ơn cụ ạ. Nhà con cũng chỉ có mấy đồng lẻ, lo gì cho mệt người.",
+        "likes": 542
+      },
+      {
+        "id": "c3-r2",
+        "username": "Chú Ba hoài nghi",
+        "location": "TP.HCM",
+        "timestamp": "1985-09-14T06:40:00+07:00",
+        "body": "Cụ nói phải, nhưng nhà nào có chút vốn buôn bán xoay vòng thì cái khoản vượt mức gửi sổ tiết kiệm mới là cái khiến đêm qua trằn trọc đấy cụ ạ. Không phải sợ, mà là tiếc cái công xoay vòng.",
+        "likes": 1289
+      }
+    ]
+  },
+  {
+    "id": "c4",
+    "username": "Mẹ cu Tý",
+    "location": "Hà Nội (khu tập thể Trung Tự)",
+    "timestamp": "1985-09-14T06:55:00+07:00",
+    "body": "Tuần trước nghe phong thanh, cả phố rủ nhau đi mua. Nhà tôi đổi gần hết ra vàng rồi, mấy chỉ thôi nhưng cũng yên cái bụng. Giờ nhìn lại chẳng biết khôn hay dại, nhưng lúc ấy ai cũng cuống cả lên.",
+    "likes": 2674,
+    "replies": [
+      {
+        "id": "c4-r1",
+        "username": "Bác Lộc phố Huế",
+        "location": "Hà Nội",
+        "timestamp": "1985-09-14T07:12:00+07:00",
+        "body": "Chị mua được vàng là khôn rồi. Nhà tôi định mua thì hết tiền, đành ôm tờ giấy bạc đứng đổi đây. Mỗi nhà một số phận chị ạ.",
+        "likes": 834
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "username": "Cô Hồng hàng xén",
+    "location": "Hà Nội",
+    "timestamp": "1985-09-14T07:30:00+07:00",
+    "body": "Tin nhỏ cho bà con: điểm đổi ở phường tôi đông lắm, nhưng bên phường bên cạnh vắng hơn, ai tiện tuyến thì sang đó cho đỡ chen. Mang theo phích nước với gói xôi, đứng cả buổi đấy.",
+    "likes": 1456
+  },
+  {
+    "id": "c6",
+    "username": "Anh Hoà công nhân",
+    "location": "Hà Nội",
+    "timestamp": "1985-09-14T07:48:00+07:00",
+    "body": "Vợ dặn đổi cho cẩn thận mấy đồng tiết kiệm cưới. Đứng từ sáng đói meo mà không dám rời hàng sợ mất chỗ. Ai cùng cảnh điểm danh phát.",
+    "likes": 723
+  },
+  {
+    "id": "c7",
+    "username": "Bà Sen khu tập thể",
+    "location": "Nam Định",
+    "timestamp": "1985-09-14T08:05:00+07:00",
+    "body": "Tôi cứ nghĩ mãi câu cụ Kính nói trong bài: cầm xấp tiền mới còn thơm mùi giấy mà ngắm như ngắm một thứ vừa lạ vừa quen. Đúng quá. Mới mà lạ, lạ mà vẫn là đồng tiền mồ hôi của mình.",
+    "likes": 1987
+  },
+  {
+    "id": "c8",
+    "username": "Tuấn sinh viên",
+    "location": "Hà Nội",
+    "timestamp": "1985-09-14T08:22:00+07:00",
+    "body": "Phóng viên có tâm thật, có mặt từ 4h30 ghi chép. Cán bộ điểm đổi cũng vất vả, ngồi cộng sổ bằng bàn tính từ sáng tới trưa chưa ngơi tay. Cảm ơn các bác giữ trật tự cho bà con.",
+    "likes": 612
+  },
+  {
+    "id": "c9",
+    "username": "Chị Loan ba con",
+    "location": "Thái Bình",
+    "timestamp": "1985-09-14T08:40:00+07:00",
+    "body": "Nhà tôi cử mỗi mình tôi đi đổi, chồng ở nhà trông ba đứa. Đứng hàng mà ruột nóng như lửa, không biết ở nhà bố con nó xoay xở thế nào với nồi cơm sáng.",
+    "likes": 489
+  },
+  {
+    "id": "c10",
+    "username": "Bác Đoàn mê bóng",
+    "location": "Hà Nội",
+    "timestamp": "1985-09-14T09:02:00+07:00",
+    "body": "Đứng hàng đổi tiền mà mấy ông đứng cạnh vẫn bàn trận cầu tuần trước. Đời là thế, đổi tiền thì đổi, bóng đá vẫn phải nói. Hàng người đông mà vui phết.",
+    "likes": 1102
+  },
+  {
+    "id": "c11",
+    "username": "Cụ bà bán nước",
+    "location": "Vinh",
+    "timestamp": "1985-09-14T09:25:00+07:00",
+    "body": "Cả đời tích cóp, đến lúc này mới thấy thương đồng tiền mồ hôi nước mắt. Câu của bà Vẹn trong bài làm tôi cay mắt. Tôi cũng vậy bà ơi, mấy đồng để dành cưới cháu, nâng niu mãi.",
+    "likes": 2345
+  },
+  {
+    "id": "c12",
+    "username": "Phương khu Giảng Võ",
+    "location": "Hà Nội (khu tập thể Giảng Võ)",
+    "timestamp": "1985-09-14T09:48:00+07:00",
+    "body": "Mẹo nhỏ: ai có người già trong nhà thì cử người trẻ đi đổi, để cụ ở nhà nghỉ. Đứng nắng cả buổi cụ chịu sao nổi. Hàng tôi có anh thanh niên nhường chỗ cho bà cụ lên trước, cả hàng vỗ tay.",
+    "likes": 1678
+  },
+  {
+    "id": "c13",
+    "username": "Ông Tài xe đạp",
+    "location": "Hải Phòng",
+    "timestamp": "1985-09-14T10:10:00+07:00",
+    "body": "Đổi xong đạp xe về một mạch, vợ đứng đầu ngõ chờ tin. Về tới nhà hai vợ chồng đếm lại tiền mới, nhẹ cả người. Một ngày dài thật nhưng xong là xong.",
+    "likes": 534
+  },
+  {
+    "id": "c14",
+    "username": "Cô giáo về hưu",
+    "location": "Huế",
+    "timestamp": "1985-09-14T10:35:00+07:00",
+    "body": "Tôi dạy học bốn mươi năm, đồng lương hưu chẳng bao nhiêu, đổi cái vèo là xong. Nhưng đứng trong hàng nhìn bà con kiên nhẫn nhường nhau, tôi lại thấy ấm. Cái nếp tử tế nơi đầu hàng, năm nào cũng còn nguyên.",
+    "likes": 1923
+  },
+  {
+    "id": "c15",
+    "username": "Bác Năm Cần Thơ",
+    "location": "Cần Thơ",
+    "timestamp": "1985-09-14T11:00:00+07:00",
+    "body": "Trong này cũng đổi từ sáng sớm, hàng dài ra tận lộ. Nhưng bà con miền Tây có khác, vừa đứng vừa rủ nhau ăn bánh, nói chuyện rôm rả, đỡ sốt ruột. Đâu cũng vậy, cứ bình tĩnh là qua hết.",
+    "likes": 1234
+  },
+  {
+    "id": "c16",
+    "username": "Mai khu Kim Liên",
+    "location": "Hà Nội (khu tập thể Kim Liên)",
+    "timestamp": "1985-09-14T11:28:00+07:00",
+    "body": "Đêm qua đèn dầu nhà tôi cháy tới khuya, hai vợ chồng ngồi bàn nên giữ tiền mặt hay đã trót đổi ra hàng hoá. Bàn mãi chẳng ngã ngũ, sáng ra cứ thế ôm tiền đi đổi. Ai cũng mất ngủ đêm qua các bác nhỉ.",
+    "likes": 2890,
+    "replies": [
+      {
+        "id": "c16-r1",
+        "username": "Hằng Nam Định",
+        "location": "Nam Định",
+        "timestamp": "1985-09-14T11:45:00+07:00",
+        "body": "Cả nước mất ngủ chứ riêng gì chị. Nhà em mẹ chồng còn dậy thắp hương khấn cho mọi sự suôn sẻ. Buồn cười mà thương.",
+        "likes": 1456
+      },
+      {
+        "id": "c16-r2",
+        "username": "Chú Ba hoài nghi",
+        "location": "TP.HCM",
+        "timestamp": "1985-09-14T12:05:00+07:00",
+        "body": "Tôi thì ngủ ngon, vì có gì đâu mà đổi, ha ha. Nghèo cũng có cái lợi của nghèo các bác ạ.",
+        "likes": 1789
+      }
+    ]
+  },
+  {
+    "id": "c17",
+    "username": "Đại uý về vườn",
+    "location": "Quảng Bình",
+    "timestamp": "1985-09-14T12:30:00+07:00",
+    "body": "Loa phường từ sáng nhắc đi nhắc lại: mỗi hộ cử một người, chuẩn bị sẵn giấy tờ. Nghe riết thuộc lòng luôn. Nhưng nhắc thế là phải, kẻo lại có người quên sổ hộ khẩu phải về lấy, mất cả buổi.",
+    "likes": 678
+  },
+  {
+    "id": "c18",
+    "username": "Thuý hàng vải",
+    "location": "Hà Nội",
+    "timestamp": "1985-09-14T13:00:00+07:00",
+    "body": "Tuần qua tôi bán vải đắt như tôm tươi, ai cũng đổ ra mua. Giờ thì hàng vắng tanh, ngồi không. Đời con buôn nhỏ lên xuống theo từng cái tin đồn, biết làm sao.",
+    "likes": 945
+  },
+  {
+    "id": "c19",
+    "username": "Ông giáo già",
+    "location": "Huế",
+    "timestamp": "1985-09-14T13:40:00+07:00",
+    "body": "Đọc tới đoạn cuối bài thấy nhẹ lòng: đồng tiền đổi mới nhưng nhịp sống vẫn thế, sáng mai lại có mặt trước cửa hàng mậu dịch. Cái viên gạch giữ chỗ ấy, nó mới là thứ không bao giờ đổi.",
+    "likes": 1567
+  },
+  {
+    "id": "c20",
+    "username": "Lan giáo viên cấp hai",
+    "location": "Vinh",
+    "timestamp": "1985-09-14T14:15:00+07:00",
+    "body": "Sáng mai lên lớp chắc tụi học trò lại kể chuyện bố mẹ đi đổi tiền. Tôi sẽ bảo các em: đây là một ngày để nhớ. Lớn lên các em sẽ kể lại cho con mình nghe, như cụ Kính kể cho chúng ta vậy.",
+    "likes": 2103
+  }
+]
